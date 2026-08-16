@@ -1,6 +1,6 @@
 """
---- Usage ---
-    python3 fetch_wiktionary.py --input kaikki-thai.jsonl --output candidates.json
+Usage:
+python3 fetch_wiktionary.py --input kaikki-thai.jsonl --output candidates.json
 """
 
 import argparse
