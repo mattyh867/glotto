@@ -11,7 +11,7 @@ from pathlib import Path
 
 EXCLUDED_POS = {"character", "punct", "symbol", "romanization"}
 EXCLUDE_MULTIWORD = True
-EXCLUDE_GLOSS = {"initialism", "misspelling", "abbreviation", "acronym", "condition"}
+EXCLUDE_GLOSS = {"initialism", "misspelling", "abbreviation", "acronym"}
 
 
 def extract_romanization(entry):

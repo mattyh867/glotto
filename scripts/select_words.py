@@ -52,7 +52,7 @@ def main():
     matched = []
     for entry in candidates:
         word = entry["word"]
-        if word in freq_rank:
+        if word in freq_rank and entry["example"]:
             entry_with_rank = dict(entry)
             entry_with_rank["frequencyRank"] = freq_rank[word]
             matched.append(entry_with_rank)
