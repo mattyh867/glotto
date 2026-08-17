@@ -11,6 +11,7 @@ from pathlib import Path
 
 EXCLUDED_POS = {"character", "punct", "symbol", "romanization"}
 EXCLUDE_MULTIWORD = True
+EXCLUDE_GLOSS = {"initialism", "misspelling", "abbreviation", "acronym", "condition"}
 
 
 def extract_romanization(entry):
@@ -79,6 +80,9 @@ def process_line(line):
     gloss = extract_first_gloss(entry)
     if not gloss:
         return None
+    for g in gloss.lower().split(" "):
+        if g in EXCLUDE_GLOSS:
+            return None
 
     return {
         "word": word,
