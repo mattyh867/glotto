@@ -11,7 +11,42 @@
 		E768019030349C20009B6B30 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E768018F30349C20009B6B30 /* ContentView.swift */; };
 		E768019230349C22009B6B30 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E768019130349C22009B6B30 /* Assets.xcassets */; };
 		E768019530349C22009B6B30 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E768019430349C22009B6B30 /* Preview Assets.xcassets */; };
+		E768019C30349F9B009B6B30 /* WordEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = E768019B30349F9B009B6B30 /* WordEntry.swift */; };
+		E76801A63034A027009B6B30 /* WidgetKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E76801A53034A027009B6B30 /* WidgetKit.framework */; };
+		E76801A83034A027009B6B30 /* SwiftUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E76801A73034A027009B6B30 /* SwiftUI.framework */; };
+		E76801AF3034A027009B6B30 /* AppIntent.swift in Sources */ = {isa = PBXBuildFile; fileRef = E76801AE3034A027009B6B30 /* AppIntent.swift */; };
+		E76801B13034A02A009B6B30 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E76801B03034A02A009B6B30 /* Assets.xcassets */; };
+		E76801B53034A02A009B6B30 /* GlottoWidgetExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = E76801A33034A027009B6B30 /* GlottoWidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		E7FFFC6E3034A525006FAF43 /* th.json in Resources */ = {isa = PBXBuildFile; fileRef = E7FFFC6D3034A525006FAF43 /* th.json */; };
+		E7FFFC6F3034A58D006FAF43 /* th.json in Resources */ = {isa = PBXBuildFile; fileRef = E7FFFC6D3034A525006FAF43 /* th.json */; };
+		E7FFFC723034A793006FAF43 /* GlottoWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = E768019D30349FC1009B6B30 /* GlottoWidget.swift */; };
+		E7FFFC733034A7EE006FAF43 /* WordEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = E768019B30349F9B009B6B30 /* WordEntry.swift */; };
+		E7FFFC763034A9DD006FAF43 /* GlottoWidgetBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7FFFC753034A9DD006FAF43 /* GlottoWidgetBundle.swift */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		E76801B33034A02A009B6B30 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E768018230349C20009B6B30 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E76801A23034A027009B6B30;
+			remoteInfo = GlottoWidgetExtension;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		E76801B93034A02A009B6B30 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				E76801B53034A02A009B6B30 /* GlottoWidgetExtension.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		E768018A30349C20009B6B30 /* Glotto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Glotto.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -19,6 +54,18 @@
 		E768018F30349C20009B6B30 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E768019130349C22009B6B30 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E768019430349C22009B6B30 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E768019B30349F9B009B6B30 /* WordEntry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordEntry.swift; sourceTree = "<group>"; };
+		E768019D30349FC1009B6B30 /* GlottoWidget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlottoWidget.swift; sourceTree = "<group>"; };
+		E76801A33034A027009B6B30 /* GlottoWidgetExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = GlottoWidgetExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		E76801A53034A027009B6B30 /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
+		E76801A73034A027009B6B30 /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = System/Library/Frameworks/SwiftUI.framework; sourceTree = SDKROOT; };
+		E76801AE3034A027009B6B30 /* AppIntent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppIntent.swift; sourceTree = "<group>"; };
+		E76801B03034A02A009B6B30 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E76801B23034A02A009B6B30 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E76801BA3034A085009B6B30 /* Glotto.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Glotto.entitlements; sourceTree = "<group>"; };
+		E7FFFC6C3034A4B6006FAF43 /* GlottoWidgetExtension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = GlottoWidgetExtension.entitlements; sourceTree = "<group>"; };
+		E7FFFC6D3034A525006FAF43 /* th.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = th.json; path = ../../content/th.json; sourceTree = "<group>"; };
+		E7FFFC753034A9DD006FAF43 /* GlottoWidgetBundle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlottoWidgetBundle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,13 +76,25 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		E76801A03034A027009B6B30 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E76801A83034A027009B6B30 /* SwiftUI.framework in Frameworks */,
+				E76801A63034A027009B6B30 /* WidgetKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
 		E768018130349C20009B6B30 = {
 			isa = PBXGroup;
 			children = (
+				E7FFFC6C3034A4B6006FAF43 /* GlottoWidgetExtension.entitlements */,
 				E768018C30349C20009B6B30 /* Glotto */,
+				E76801A93034A027009B6B30 /* GlottoWidget */,
+				E76801A43034A027009B6B30 /* Frameworks */,
 				E768018B30349C20009B6B30 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -44,6 +103,7 @@
 			isa = PBXGroup;
 			children = (
 				E768018A30349C20009B6B30 /* Glotto.app */,
+				E76801A33034A027009B6B30 /* GlottoWidgetExtension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -51,8 +111,10 @@
 		E768018C30349C20009B6B30 /* Glotto */ = {
 			isa = PBXGroup;
 			children = (
+				E76801BA3034A085009B6B30 /* Glotto.entitlements */,
 				E768018D30349C20009B6B30 /* GlottoApp.swift */,
 				E768018F30349C20009B6B30 /* ContentView.swift */,
+				E768019B30349F9B009B6B30 /* WordEntry.swift */,
 				E768019130349C22009B6B30 /* Assets.xcassets */,
 				E768019330349C22009B6B30 /* Preview Content */,
 			);
@@ -67,6 +129,28 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
+		E76801A43034A027009B6B30 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E76801A53034A027009B6B30 /* WidgetKit.framework */,
+				E76801A73034A027009B6B30 /* SwiftUI.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E76801A93034A027009B6B30 /* GlottoWidget */ = {
+			isa = PBXGroup;
+			children = (
+				E7FFFC6D3034A525006FAF43 /* th.json */,
+				E768019D30349FC1009B6B30 /* GlottoWidget.swift */,
+				E76801AE3034A027009B6B30 /* AppIntent.swift */,
+				E76801B03034A02A009B6B30 /* Assets.xcassets */,
+				E76801B23034A02A009B6B30 /* Info.plist */,
+				E7FFFC753034A9DD006FAF43 /* GlottoWidgetBundle.swift */,
+			);
+			path = GlottoWidget;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -77,15 +161,34 @@
 				E768018630349C20009B6B30 /* Sources */,
 				E768018730349C20009B6B30 /* Frameworks */,
 				E768018830349C20009B6B30 /* Resources */,
+				E76801B93034A02A009B6B30 /* Embed Foundation Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				E76801B43034A02A009B6B30 /* PBXTargetDependency */,
 			);
 			name = Glotto;
 			productName = Glotto;
 			productReference = E768018A30349C20009B6B30 /* Glotto.app */;
 			productType = "com.apple.product-type.application";
+		};
+		E76801A23034A027009B6B30 /* GlottoWidgetExtension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E76801B63034A02A009B6B30 /* Build configuration list for PBXNativeTarget "GlottoWidgetExtension" */;
+			buildPhases = (
+				E768019F3034A027009B6B30 /* Sources */,
+				E76801A03034A027009B6B30 /* Frameworks */,
+				E76801A13034A027009B6B30 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = GlottoWidgetExtension;
+			productName = GlottoWidgetExtension;
+			productReference = E76801A33034A027009B6B30 /* GlottoWidgetExtension.appex */;
+			productType = "com.apple.product-type.app-extension";
 		};
 /* End PBXNativeTarget section */
 
@@ -98,6 +201,9 @@
 				LastUpgradeCheck = 1540;
 				TargetAttributes = {
 					E768018930349C20009B6B30 = {
+						CreatedOnToolsVersion = 15.4;
+					};
+					E76801A23034A027009B6B30 = {
 						CreatedOnToolsVersion = 15.4;
 					};
 				};
@@ -116,6 +222,7 @@
 			projectRoot = "";
 			targets = (
 				E768018930349C20009B6B30 /* Glotto */,
+				E76801A23034A027009B6B30 /* GlottoWidgetExtension */,
 			);
 		};
 /* End PBXProject section */
@@ -125,8 +232,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E7FFFC6F3034A58D006FAF43 /* th.json in Resources */,
 				E768019530349C22009B6B30 /* Preview Assets.xcassets in Resources */,
 				E768019230349C22009B6B30 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E76801A13034A027009B6B30 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E76801B13034A02A009B6B30 /* Assets.xcassets in Resources */,
+				E7FFFC6E3034A525006FAF43 /* th.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,10 +256,30 @@
 			files = (
 				E768019030349C20009B6B30 /* ContentView.swift in Sources */,
 				E768018E30349C20009B6B30 /* GlottoApp.swift in Sources */,
+				E768019C30349F9B009B6B30 /* WordEntry.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E768019F3034A027009B6B30 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E7FFFC733034A7EE006FAF43 /* WordEntry.swift in Sources */,
+				E7FFFC723034A793006FAF43 /* GlottoWidget.swift in Sources */,
+				E7FFFC763034A9DD006FAF43 /* GlottoWidgetBundle.swift in Sources */,
+				E76801AF3034A027009B6B30 /* AppIntent.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		E76801B43034A02A009B6B30 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E76801A23034A027009B6B30 /* GlottoWidgetExtension */;
+			targetProxy = E76801B33034A02A009B6B30 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		E768019630349C22009B6B30 /* Debug */ = {
@@ -267,11 +404,14 @@
 		E768019930349C22009B6B30 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = Glotto/Glotto.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Glotto/Preview Content\"";
+				DEVELOPMENT_TEAM = L87X4CHXN5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -295,11 +435,14 @@
 		E768019A30349C22009B6B30 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = Glotto/Glotto.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Glotto/Preview Content\"";
+				DEVELOPMENT_TEAM = L87X4CHXN5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -314,6 +457,62 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.matthewhughes.Glotto;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		E76801B73034A02A009B6B30 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
+				CODE_SIGN_ENTITLEMENTS = GlottoWidgetExtension.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = L87X4CHXN5;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = GlottoWidget/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = GlottoWidget;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.matthewhughes.Glotto.GlottoWidget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		E76801B83034A02A009B6B30 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
+				CODE_SIGN_ENTITLEMENTS = GlottoWidgetExtension.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = L87X4CHXN5;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = GlottoWidget/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = GlottoWidget;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.matthewhughes.Glotto.GlottoWidget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -337,6 +536,15 @@
 			buildConfigurations = (
 				E768019930349C22009B6B30 /* Debug */,
 				E768019A30349C22009B6B30 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E76801B63034A02A009B6B30 /* Build configuration list for PBXNativeTarget "GlottoWidgetExtension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E76801B73034A02A009B6B30 /* Debug */,
+				E76801B83034A02A009B6B30 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
