@@ -1,0 +1,3470 @@
+[
+  {
+    "word": "อะไร",
+    "partOfSpeech": "pron",
+    "romanization": "à-rai",
+    "glossShort": "what?",
+    "example": {
+      "text": "อะไรนะ?",
+      "translation": "What? What was that? Pardon?"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/อะไร#Thai",
+    "frequencyRank": 8
+  },
+  {
+    "word": "และ",
+    "partOfSpeech": "conj",
+    "romanization": "lɛ́",
+    "glossShort": "and",
+    "example": {
+      "text": "ทั้งเช้าและเย็น",
+      "translation": "both mornings and evenings"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/และ#Thai",
+    "frequencyRank": 9
+  },
+  {
+    "word": "ทำไม",
+    "partOfSpeech": "pron",
+    "romanization": "tam-mai",
+    "glossShort": "why? what? for what? for what purpose, reason, or cause?",
+    "example": {
+      "text": "ฉันจะไป เธอจะทำไม",
+      "translation": "I'm gonna go. What you gonna do (with me)?"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ทำไม#Thai",
+    "frequencyRank": 19
+  },
+  {
+    "word": "ไป",
+    "partOfSpeech": "verb",
+    "romanization": "bpai",
+    "glossShort": "to go; to move (away from the speaker); to leave; to depart",
+    "example": {
+      "text": "พรุ่งนี้คุณจะไปไหนต่อ",
+      "translation": "Where will you go to tomorrow?"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ไป#Thai",
+    "frequencyRank": 20
+  },
+  {
+    "word": "ตกลง",
+    "partOfSpeech": "verb",
+    "romanization": "dtòk-long",
+    "glossShort": "to agree (to something)",
+    "example": {
+      "text": "ผู้ประท้วงตกลงยอมรับข้อเสนอใหม่",
+      "translation": "The protesters agree to accept the new suggestion."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ตกลง#Thai",
+    "frequencyRank": 29
+  },
+  {
+    "word": "นะ",
+    "partOfSpeech": "particle",
+    "romanization": "ná",
+    "glossShort": "particle used to make a sentence seem softer, more persuasive or less abrupt",
+    "example": {
+      "text": "อะไรนะ",
+      "translation": "Pardon? What was that?"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/นะ#Thai",
+    "frequencyRank": 32
+  },
+  {
+    "word": "เออ",
+    "partOfSpeech": "intj",
+    "romanization": "əə",
+    "glossShort": "exclamation expressing agreement, assent, concurrence, approval: yes!, aye!, fine!, say!, oh!, etc.",
+    "example": {
+      "text": "เออนั่นแหละก็บอกอยู่ว่าจะไป",
+      "translation": "Yes, of course. As I said that I will go."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เออ#Thai",
+    "frequencyRank": 34
+  },
+  {
+    "word": "คน",
+    "partOfSpeech": "noun",
+    "romanization": "kon",
+    "glossShort": "person; people; human being (Classifiers: คน or หัว or ราย or นาย or ท่าน)",
+    "example": {
+      "text": "คนไทย",
+      "translation": "Thai people."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/คน#Thai",
+    "frequencyRank": 36
+  },
+  {
+    "word": "ไง",
+    "partOfSpeech": "pron",
+    "romanization": "ngai",
+    "glossShort": "how; what; in what way.",
+    "example": {
+      "text": "เป็นไงบ้าง",
+      "translation": "How's it going?"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ไง#Thai",
+    "frequencyRank": 37
+  },
+  {
+    "word": "เธอ",
+    "partOfSpeech": "pron",
+    "romanization": "təə",
+    "glossShort": "a second-person pronoun used to address a person of equal or lower status",
+    "example": {
+      "text": "ฉันแค่อยากมีเธอนานเท่านาน",
+      "translation": "I just want to have you for the longest time possible."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เธอ#Thai",
+    "frequencyRank": 56
+  },
+  {
+    "word": "พวก",
+    "partOfSpeech": "noun",
+    "romanization": "pûuak",
+    "glossShort": "group; party (of people, animals)",
+    "example": {
+      "text": "พวกนี้",
+      "translation": "this group; these"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/พวก#Thai",
+    "frequencyRank": 73
+  },
+  {
+    "word": "เลย",
+    "partOfSpeech": "adv",
+    "romanization": "ləəi",
+    "glossShort": "really; completely; entirely; at all!; so much!; extremely (used for emphasis at the end of a statement)",
+    "example": {
+      "text": "วันนี้มีคนมาเยอะเลย",
+      "translation": "Today many people come. (emphasised on 'many')"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เลย#Thai",
+    "frequencyRank": 92
+  },
+  {
+    "word": "มา",
+    "partOfSpeech": "verb",
+    "romanization": "maa",
+    "glossShort": "to move or come (towards the speaker's direction); to arrive",
+    "example": {
+      "text": "คุณมาจากที่ไหน",
+      "translation": "Where do you come from?"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/มา#Thai",
+    "frequencyRank": 98
+  },
+  {
+    "word": "ใคร",
+    "partOfSpeech": "pron",
+    "romanization": "krai",
+    "glossShort": "who; which person; what person?",
+    "example": {
+      "text": "ใครก็ช่วยไม่ได้",
+      "translation": "No one can help.\n(literally) Whoever [they are], [they] cannot help."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ใคร#Thai",
+    "frequencyRank": 100
+  },
+  {
+    "word": "เขา",
+    "partOfSpeech": "pron",
+    "romanization": "kǎo",
+    "glossShort": "he; she; they",
+    "example": {
+      "text": "เขาคิดถึงตัวเองจัง",
+      "translation": "I miss you so much!"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เขา#Thai",
+    "frequencyRank": 101
+  },
+  {
+    "word": "ใน",
+    "partOfSpeech": "prep",
+    "romanization": "nai",
+    "glossShort": "in; inside; within; amidst; into",
+    "example": {
+      "text": "นมอยู่ในตู้เย็น",
+      "translation": "The milk is in the fridge."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ใน#Thai",
+    "frequencyRank": 114
+  },
+  {
+    "word": "เรา",
+    "partOfSpeech": "pron",
+    "romanization": "rao",
+    "glossShort": "a first person plural/singular pronoun employed when addressing a person of equal or lower status; I, we",
+    "example": {
+      "text": "เราต้องปฏิเสธคำขอของคุณ",
+      "translation": "We have to deny your request."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เรา#Thai",
+    "frequencyRank": 123
+  },
+  {
+    "word": "ของ",
+    "partOfSpeech": "noun",
+    "romanization": "kɔ̌ɔng",
+    "glossShort": "thing; item; article; stuff; matter",
+    "example": {
+      "text": "พราหมณ์ ส่วนอันเลิศก็ดี ภัตที่ท่านแบ่งครึ่งบริโภคแล้วก็ดี เป็นของสมควรแก่เราทั้งนั้น แม้ก้อนภัตที่เป็นเดนเป็นของสมควรแก่เราเหมือนกัน",
+      "translation": "Brahman, the parts that are excellent [in taste], the victuals that thou hast already divided in half [and] consumed, are things suiting me in every respect. Even a lump of rice which is a leftover is a thing befitting me likewise."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ของ#Thai",
+    "frequencyRank": 145
+  },
+  {
+    "word": "หรอ",
+    "partOfSpeech": "particle",
+    "romanization": "rɔ̌ɔ",
+    "glossShort": "alternative form of หรือ (rʉ̌ʉ)",
+    "example": {
+      "text": "จริงหรอ?",
+      "translation": "Real/Really?"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/หรอ#Thai",
+    "frequencyRank": 175
+  },
+  {
+    "word": "แก",
+    "partOfSpeech": "pron",
+    "romanization": "gɛɛ",
+    "glossShort": "a second person pronoun used to address a person of equal or lower status out of affection or intimacy",
+    "example": {
+      "text": "อากงแกมาจากซัวเถา",
+      "translation": "Your grandfather (paternal side, implying Chinese descent) came from Shantou. (implying 'you' are a person of lower status; out of intimacy)"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/แก#Thai",
+    "frequencyRank": 176
+  },
+  {
+    "word": "ประมาณ",
+    "partOfSpeech": "verb",
+    "romanization": "bprà-maan",
+    "glossShort": "to measure, to determine; to approximate, to estimate.",
+    "example": {
+      "text": "อยู่มา มีผู้เอาเป็ดอั่วตัวหนึ่งมาให้แก่ขุนราชอาษา...เสดนั้นบุตรภรรยาเอามาประมาณ...เห็นหนวดเสืออยู่ในเป็ดนั้น...แลขุนราชอาษาก็ไอถึงโลหิตออกแต่ปาก",
+      "translation": "Later on, there happened to be someone bringing a stuffed duck in [and] giving [it] to Khun Ratcha-asa... [After he ate the duck, his] wife [and] children took the remains in [for] examining... [thus] finding nuat suea within that duck... And Khun Ratcha-asa then coughed to the point [that he ejected] blood out of [his] mouth."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ประมาณ#Thai",
+    "frequencyRank": 225
+  },
+  {
+    "word": "เพลง",
+    "partOfSpeech": "noun",
+    "romanization": "pleeng",
+    "glossShort": "song; music",
+    "example": {
+      "text": "ร้องเพลง",
+      "translation": "to sing a song"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เพลง#Thai",
+    "frequencyRank": 259
+  },
+  {
+    "word": "โมง",
+    "partOfSpeech": "noun",
+    "romanization": "moong",
+    "glossShort": "hour; o'clock",
+    "example": {
+      "text": "กี่โมงแล้ว",
+      "translation": "What time is it?"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/โมง#Thai",
+    "frequencyRank": 273
+  },
+  {
+    "word": "โบ",
+    "partOfSpeech": "noun",
+    "romanization": "boo",
+    "glossShort": "bowknot.",
+    "example": {
+      "text": "ปรากฏการณ์นักเรียนแสดงออกเชิงสัญลักษณ์...ด้วยการติดโบขาวที่กระเป๋าหรือข้อมือเพื่อแสดงออกถึงการเรียกร้องประชาธิปไตย ไม่เอาเผด็จการ",
+      "translation": "The phenomenon of students making a symbolic expression...by attaching white ribbons with [their] bags or wrists in order to express [their] demand of democracy [and] rejection of dictatorship"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/โบ#Thai",
+    "frequencyRank": 287
+  },
+  {
+    "word": "นา",
+    "partOfSpeech": "noun",
+    "romanization": "naa",
+    "glossShort": "paddy field",
+    "example": {
+      "text": "นาเกลือ",
+      "translation": "salt pan"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/นา#Thai",
+    "frequencyRank": 296
+  },
+  {
+    "word": "ไหน",
+    "partOfSpeech": "pron",
+    "romanization": "nǎi",
+    "glossShort": "which; where; who (for question)",
+    "example": {
+      "text": "อันไหน",
+      "translation": "Which thing?"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ไหน#Thai",
+    "frequencyRank": 314
+  },
+  {
+    "word": "ไหม",
+    "partOfSpeech": "particle",
+    "romanization": "mǎi",
+    "glossShort": "or not?",
+    "example": {
+      "text": "คุณเป็นนักท่องเที่ยวใช่ไหม",
+      "translation": "You're a tourist, is that right?"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ไหม#Thai",
+    "frequencyRank": 328
+  },
+  {
+    "word": "ตำรวจ",
+    "partOfSpeech": "noun",
+    "romanization": "dtam-rùuat",
+    "glossShort": "police",
+    "example": {
+      "text": "เรียกตำรวจ",
+      "translation": "call the police"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ตำรวจ#Thai",
+    "frequencyRank": 329
+  },
+  {
+    "word": "หมายเลข",
+    "partOfSpeech": "noun",
+    "romanization": "mǎai-lêek",
+    "glossShort": "number (in sequence)",
+    "example": {
+      "text": "หมายเลขโทรศัพท์",
+      "translation": "phone number"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/หมายเลข#Thai",
+    "frequencyRank": 353
+  },
+  {
+    "word": "ขวา",
+    "partOfSpeech": "noun",
+    "romanization": "kwǎa",
+    "glossShort": "right side (opposite of left)",
+    "example": {
+      "text": "เลี้ยวขวาที่นี่",
+      "translation": "turn right here"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ขวา#Thai",
+    "frequencyRank": 359
+  },
+  {
+    "word": "จอง",
+    "partOfSpeech": "verb",
+    "romanization": "jɔɔng",
+    "glossShort": "to secure; to fasten; to bind; to tie.",
+    "example": {
+      "text": "จองถนน",
+      "translation": "to construct a road"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/จอง#Thai",
+    "frequencyRank": 364
+  },
+  {
+    "word": "เจ",
+    "partOfSpeech": "noun",
+    "romanization": "jee",
+    "glossShort": "vegetarianism with some prohibited vegetables as practiced by some Chinese vegetarians.",
+    "example": {
+      "text": "อาหารเจ",
+      "translation": "vegetarian food"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เจ#Thai",
+    "frequencyRank": 368
+  },
+  {
+    "word": "หรอก",
+    "partOfSpeech": "particle",
+    "romanization": "rɔ̀k",
+    "glossShort": "at all",
+    "example": {
+      "text": "เปล่าหรอก",
+      "translation": "no way, not at all"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/หรอก#Thai",
+    "frequencyRank": 405
+  },
+  {
+    "word": "ภายใน",
+    "partOfSpeech": "prep",
+    "romanization": "paai-nai",
+    "glossShort": "within; inside",
+    "example": {
+      "text": "ภายในสามวัน",
+      "translation": "within three days"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ภายใน#Thai",
+    "frequencyRank": 426
+  },
+  {
+    "word": "รอ",
+    "partOfSpeech": "verb",
+    "romanization": "rɔɔ",
+    "glossShort": "to wait",
+    "example": {
+      "text": "รอนานรึเปล่า",
+      "translation": "Did you wait for a long time?"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/รอ#Thai",
+    "frequencyRank": 442
+  },
+  {
+    "word": "ชา",
+    "partOfSpeech": "noun",
+    "romanization": "chaa",
+    "glossShort": "tea",
+    "example": {
+      "text": "น้ำชา",
+      "translation": "tea (drink)"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ชา#Thai",
+    "frequencyRank": 471
+  },
+  {
+    "word": "มาก",
+    "partOfSpeech": "adv",
+    "romanization": "mâak",
+    "glossShort": "a lot; much; many; very",
+    "example": {
+      "text": "ปีนี้สุโขทัยอากาศร้อนมาก",
+      "translation": "This year, Sukhothai's weather is much (very) hot."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/มาก#Thai",
+    "frequencyRank": 504
+  },
+  {
+    "word": "ทหาร",
+    "partOfSpeech": "noun",
+    "romanization": "tá-hǎan",
+    "glossShort": "the military; military or military-like body, armed force, armed body; member thereof, person in military service, or military person, as soldier, warrior, servicemember, military officer, naval officer, etc.",
+    "example": {
+      "text": "บิ๊กป้อมปัดตอบปมวิจารณ์ทหารเกษียณใช้บ้านหลวง",
+      "translation": "Big Pom refuses to answer [as to] criticised issue [of] retired officers using government[-funded] homes"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ทหาร#Thai",
+    "frequencyRank": 514
+  },
+  {
+    "word": "รอย",
+    "partOfSpeech": "noun",
+    "romanization": "rɔɔi",
+    "glossShort": "trace; mark; track; line",
+    "example": {
+      "text": "รอยพับ",
+      "translation": "mark made from folding"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/รอย#Thai",
+    "frequencyRank": 518
+  },
+  {
+    "word": "จะ",
+    "partOfSpeech": "verb",
+    "romanization": "jà",
+    "glossShort": "used to indicate a future tense: will; would; to be to; to be about to; to be going to; etc.",
+    "example": {
+      "text": "พรุ่งนี้จะไปสวนสาธารณะ",
+      "translation": "Tomorrow [I] will go to the park."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/จะ#Thai",
+    "frequencyRank": 519
+  },
+  {
+    "word": "เอา",
+    "partOfSpeech": "verb",
+    "romanization": "ao",
+    "glossShort": "to bring; to take",
+    "example": {
+      "text": "เอามานี่",
+      "translation": "bring it here"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เอา#Thai",
+    "frequencyRank": 533
+  },
+  {
+    "word": "รอบ",
+    "partOfSpeech": "noun",
+    "romanization": "rɔ̂ɔp",
+    "glossShort": "cycle; round; turn; period",
+    "example": {
+      "text": "หกรอบ",
+      "translation": "six cycles (= 72 years)"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/รอบ#Thai",
+    "frequencyRank": 563
+  },
+  {
+    "word": "เมษายน",
+    "partOfSpeech": "name",
+    "romanization": "mee-sǎa-yon",
+    "glossShort": "April (the fourth month of the year under the Gregorian calendar)",
+    "example": {
+      "text": "ลาวมี ๒ ฤดู คือ ฤดูร้อน (พฤศจิกายนถึงเมษายน)...",
+      "translation": "Laos has two seasons, that is, the hot season (November–April)..."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เมษายน#Thai",
+    "frequencyRank": 564
+  },
+  {
+    "word": "ใบ",
+    "partOfSpeech": "noun",
+    "romanization": "bai",
+    "glossShort": "leaf (of a plant)",
+    "example": {
+      "text": "สีที่ทำจากใบมะม่วง",
+      "translation": "color that is made of mango leaves"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ใบ#Thai",
+    "frequencyRank": 583
+  },
+  {
+    "word": "ออก",
+    "partOfSpeech": "verb",
+    "romanization": "ɔ̀ɔk",
+    "glossShort": "to pay (a monetary sum)",
+    "example": {
+      "text": "รัฐสภาออกกฎหมายใหม่",
+      "translation": "The parliament has issued a new law."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ออก#Thai",
+    "frequencyRank": 637
+  },
+  {
+    "word": "ไฟ",
+    "partOfSpeech": "noun",
+    "romanization": "fai",
+    "glossShort": "fire; flame",
+    "example": {
+      "text": "นำไปเผาไฟ",
+      "translation": "to bring to be burnt in a fire"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ไฟ#Thai",
+    "frequencyRank": 641
+  },
+  {
+    "word": "รอน",
+    "partOfSpeech": "verb",
+    "romanization": "rɔɔn",
+    "glossShort": "to cut short; to cut into pieces",
+    "example": {
+      "text": "ครั้นเพลาสายัณห์ตะวันรอน",
+      "translation": "At eventide [when] the sun is waning"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/รอน#Thai",
+    "frequencyRank": 645
+  },
+  {
+    "word": "ทำงาน",
+    "partOfSpeech": "verb",
+    "romanization": "tam-ngaan",
+    "glossShort": "to work; to perform work",
+    "example": {
+      "text": "คุณทำงานอะไร",
+      "translation": "What do you do? (for work)"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ทำงาน#Thai",
+    "frequencyRank": 672
+  },
+  {
+    "word": "งาน",
+    "partOfSpeech": "noun",
+    "romanization": "ngaan",
+    "glossShort": "work:",
+    "example": {
+      "text": "งานศิลปะ",
+      "translation": "work of art"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/งาน#Thai",
+    "frequencyRank": 685
+  },
+  {
+    "word": "รถ",
+    "partOfSpeech": "noun",
+    "romanization": "rót",
+    "glossShort": "chariot; carriage; cart; wagon",
+    "example": {
+      "text": "พญาขรขึ้นทรงรถมณี กงกำล้ำดี",
+      "translation": "Phaya Khon mounted [and] rode [upon] a jewelled chariot, of which the wheels were so marvelous!"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/รถ#Thai",
+    "frequencyRank": 698
+  },
+  {
+    "word": "มะ",
+    "partOfSpeech": "particle",
+    "romanization": "má",
+    "glossShort": "question particle",
+    "example": {
+      "text": "ใช่มะ",
+      "translation": "Is that right?"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/มะ#Thai",
+    "frequencyRank": 701
+  },
+  {
+    "word": "กาแฟ",
+    "partOfSpeech": "noun",
+    "romanization": "gaa-fɛɛ",
+    "glossShort": "coffee (beverage, tree, bean, or color)",
+    "example": {
+      "text": "นี่คุณซื้อกาแฟมาจากร้านไหน?",
+      "translation": "From what shop did you buy coffee?"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/กาแฟ#Thai",
+    "frequencyRank": 713
+  },
+  {
+    "word": "ยา",
+    "partOfSpeech": "noun",
+    "romanization": "yaa",
+    "glossShort": "medicine; drug",
+    "example": {
+      "text": "ยาลดความดัน",
+      "translation": "pressure-lowering medication; antihypertensive"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ยา#Thai",
+    "frequencyRank": 720
+  },
+  {
+    "word": "อาหาร",
+    "partOfSpeech": "noun",
+    "romanization": "aa-hǎan",
+    "glossShort": "food; meal; diet",
+    "example": {
+      "text": "อาหารอร่อยมากครับ",
+      "translation": "The food is very nice. (male speaker)"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/อาหาร#Thai",
+    "frequencyRank": 741
+  },
+  {
+    "word": "ถนน",
+    "partOfSpeech": "noun",
+    "romanization": "tà-nǒn",
+    "glossShort": "causeway; inlet; roadway over an embankment",
+    "example": {
+      "text": "พระเจ้าหงษาให้แต่งการที่จะเข้าปล้นพระนคร ให้พูนถนนเข้ามาในขื่อหน้า",
+      "translation": "The King of Haṃsā had [his men] prepare the operations to march in [and] take [our] Divine City, ordering [them] to raise a roadway in towards [us] at the Front Beam."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ถนน#Thai",
+    "frequencyRank": 754
+  },
+  {
+    "word": "นอกจาก",
+    "partOfSpeech": "prep",
+    "romanization": "nɔ̂ɔk-jàak",
+    "glossShort": "other than; otherwise than; apart from; except; excluding.",
+    "example": {
+      "text": "ผู้อื่นนอกจากพี่น้อง",
+      "translation": "Another person than [his] cousin"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/นอกจาก#Thai",
+    "frequencyRank": 773
+  },
+  {
+    "word": "เคย",
+    "partOfSpeech": "adv",
+    "romanization": "kəəi",
+    "glossShort": "ever",
+    "example": {
+      "text": "คุณเคยขึ้นเครื่องบินไหม?",
+      "translation": "Have you ever been on a plane?"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เคย#Thai",
+    "frequencyRank": 842
+  },
+  {
+    "word": "ศพ",
+    "partOfSpeech": "noun",
+    "romanization": "sòp",
+    "glossShort": "dead body: corpse, remains, cadaver, etc.",
+    "example": {
+      "text": "มาตรา ๓๖๖/๑ ผู้ใดกระทำเพื่อสนองความใคร่ของตนโดยการใช้อวัยวะเพศของตนล่วงล้ำอวัยวะเพศ ทวารหนัก หรือช่องปากของศพ ต้องระวางโทษจำคุกไม่เกินสามปี หรือปรับไม่เกินหกหมื่นบาท หรือทั้งจำทั้งปรับ",
+      "translation": "Section 366/1 Anyone who commits [any act] in order to satisfy his own desire by penetrating the genital organ, anus, or oral cavity of a corpse using his own genital organ, shall be liable to imprisonment for not more than three years, or a fine of not exceeding sixty thousand baht, or both."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ศพ#Thai",
+    "frequencyRank": 845
+  },
+  {
+    "word": "ลง",
+    "partOfSpeech": "verb",
+    "romanization": "long",
+    "glossShort": "to come down; to get down; to descend",
+    "example": {
+      "text": "ลงมาดู",
+      "translation": "to get down (come down) to/and see"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ลง#Thai",
+    "frequencyRank": 902
+  },
+  {
+    "word": "เสมอ",
+    "partOfSpeech": "adj",
+    "romanization": "sà-mə̌ə",
+    "glossShort": "even; level; equal",
+    "example": {
+      "text": "พื้นถนนกับฟุตบาทเสมอกัน",
+      "translation": "(The levels of) the road and footpath are even."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เสมอ#Thai",
+    "frequencyRank": 923
+  },
+  {
+    "word": "โลก",
+    "partOfSpeech": "noun",
+    "romanization": "lôok",
+    "glossShort": "land; country",
+    "example": {
+      "text": "โลกของนักแปล",
+      "translation": "the world of interpreters"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/โลก#Thai",
+    "frequencyRank": 944
+  },
+  {
+    "word": "ดอง",
+    "partOfSpeech": "verb",
+    "romanization": "dɔɔng",
+    "glossShort": "to pickle: to preserve or steep in brine or other liquid.",
+    "example": {
+      "text": "ดองงาน",
+      "translation": "(literally) to pickle a work"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ดอง#Thai",
+    "frequencyRank": 945
+  },
+  {
+    "word": "ตา",
+    "partOfSpeech": "noun",
+    "romanization": "dtaa",
+    "glossShort": "eye",
+    "example": {
+      "text": "ตากล้อง",
+      "translation": "cameraman; photographer\n(literally) camera eye"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ตา#Thai",
+    "frequencyRank": 996
+  },
+  {
+    "word": "บา",
+    "partOfSpeech": "noun",
+    "romanization": "baa",
+    "glossShort": "boy; young man",
+    "example": {
+      "text": "บาพิศณูคนหนึ่ง บาชีพิศคนหนึ่ง บาฤทธิรจนาคนหนึ่ง บาอินท์คนหนึ่ง บาพรหมคนหนึ่ง บาทั้งห้าคนนี้ย่อมเปนช่าง",
+      "translation": "One [was] Ba Phitsanu. One [was] Ba Chiphit. One [was] Ba Ritthirotchana. One [was] Ba In. [The other] one [was] Ba Phrom. All these five ba were, indeed, artisans."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/บา#Thai",
+    "frequencyRank": 1014
+  },
+  {
+    "word": "ชาย",
+    "partOfSpeech": "noun",
+    "romanization": "chaai",
+    "glossShort": "male; man",
+    "example": {
+      "text": "ชายคนนั้น",
+      "translation": "that man"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ชาย#Thai",
+    "frequencyRank": 1023
+  },
+  {
+    "word": "ทาง",
+    "partOfSpeech": "noun",
+    "romanization": "taang",
+    "glossShort": "way, route, or course for travel",
+    "example": {
+      "text": "ทางนั้นยังไม่ได้ตอบกลับมา",
+      "translation": "They (that side) have not yet replied."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ทาง#Thai",
+    "frequencyRank": 1025
+  },
+  {
+    "word": "ชอบ",
+    "partOfSpeech": "verb",
+    "romanization": "chɔ̂ɔp",
+    "glossShort": "to like; to admire; to appreciate; to adore; to approve; to be in favour (of)",
+    "example": {
+      "text": "คุณชอบอาหารไทยไหมคะ",
+      "translation": "Do you like Thai food? (female speaker)"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ชอบ#Thai",
+    "frequencyRank": 1062
+  },
+  {
+    "word": "ประธาน",
+    "partOfSpeech": "noun",
+    "romanization": "bprà-taan",
+    "glossShort": "chief; lord; master; leader; head; president; chairperson",
+    "example": {
+      "text": "ประธานศาลยุติธรรมระหว่างประเทศ",
+      "translation": "President of the International Court of Justice"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ประธาน#Thai",
+    "frequencyRank": 1154
+  },
+  {
+    "word": "นรก",
+    "partOfSpeech": "noun",
+    "romanization": "ná-rók",
+    "glossShort": "(classifier ขุม) naraka: realm in which beings are born and punished for the sins committed in previous lives",
+    "example": {
+      "text": "ฉันผลักลูกลงนรกด้วยมือของฉันเอง",
+      "translation": "I plunged [our] kids into naraka with my own hands."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/นรก#Thai",
+    "frequencyRank": 1188
+  },
+  {
+    "word": "ลอง",
+    "partOfSpeech": "verb",
+    "romanization": "lɔɔng",
+    "glossShort": "to try (to make an experiment)",
+    "example": {
+      "text": "ลองเดาดูสิ",
+      "translation": "take a guess"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ลอง#Thai",
+    "frequencyRank": 1195
+  },
+  {
+    "word": "คำถาม",
+    "partOfSpeech": "noun",
+    "romanization": "kam-tǎam",
+    "glossShort": "question",
+    "example": {
+      "text": "ผมมีคำถามครับ",
+      "translation": "I have a question (male speaker, polite)"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/คำถาม#Thai",
+    "frequencyRank": 1205
+  },
+  {
+    "word": "อยาก",
+    "partOfSpeech": "verb",
+    "romanization": "yàak",
+    "glossShort": "to want; to desire",
+    "example": {
+      "text": "ฉันอยาก",
+      "translation": "I want."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/อยาก#Thai",
+    "frequencyRank": 1273
+  },
+  {
+    "word": "หมา",
+    "partOfSpeech": "noun",
+    "romanization": "mǎa",
+    "glossShort": "canine: any animal of the family Canidae, as dog, coyote, fox, jackal, wolf, etc.",
+    "example": {
+      "text": "พอเจอผู้แล้วกูนี่หมาเลย",
+      "translation": "As [she]'s found [her] guy, I'm now a dog."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/หมา#Thai",
+    "frequencyRank": 1290
+  },
+  {
+    "word": "แมว",
+    "partOfSpeech": "noun",
+    "romanization": "mɛɛo",
+    "glossShort": "cat",
+    "example": {
+      "text": "เสือกระต่ายลายเขียนขีด ตัวกระจิดนิดกว่าแมว อยู่ป่าตาบั้งแบ๊ว ขบกระต่ายแล้วแง้วคำราม\nsʉ̌ʉa-grà-dtàai laai kǐian-kìit · dtuua grà-jìt nít gwàa mɛɛo · yùu bpàa dtaa bâng-bɛ́o · kòp grà-dtàai lɛ́ɛo ngɛ́ɛo kam-raam",
+      "translation": "A reed cat has strips written all over its body, that is tinier than an actual cat. It lurks in the grove, with the eyes so odd. Having snapped at a hare, it roars miaow."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/แมว#Thai",
+    "frequencyRank": 1291
+  },
+  {
+    "word": "ภาษา",
+    "partOfSpeech": "noun",
+    "romanization": "paa-sǎa",
+    "glossShort": "language (form of communication using words: spoken, gestured, or written)",
+    "example": {
+      "text": "ภาษาไทย",
+      "translation": "Thai language"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ภาษา#Thai",
+    "frequencyRank": 1430
+  },
+  {
+    "word": "ราคา",
+    "partOfSpeech": "noun",
+    "romanization": "raa-kaa",
+    "glossShort": "price; cost",
+    "example": {
+      "text": "หมวกใบนี้ราคาไม่แพง",
+      "translation": "The price of this hat is not expensive."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ราคา#Thai",
+    "frequencyRank": 1438
+  },
+  {
+    "word": "เดท",
+    "partOfSpeech": "noun",
+    "romanization": "dèet",
+    "glossShort": "date: a romantic meeting or outing with a lover or potential lover.",
+    "example": {
+      "text": "ออกเดท",
+      "translation": "to go out on a date."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เดท#Thai",
+    "frequencyRank": 1447
+  },
+  {
+    "word": "แผน",
+    "partOfSpeech": "noun",
+    "romanization": "pɛ̌ɛn",
+    "glossShort": "plan (set of intended actions)",
+    "example": {
+      "text": "แผนปฏิบัติ",
+      "translation": "plan of action"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/แผน#Thai",
+    "frequencyRank": 1465
+  },
+  {
+    "word": "ทะเล",
+    "partOfSpeech": "noun",
+    "romanization": "tá-lee",
+    "glossShort": "large body of water, as lake",
+    "example": {
+      "text": "ส่งน้ำทะเลชุบศรไปถวายพระเจ้ากรุงขอม",
+      "translation": "sent water [from] Chup Son Lake to be presented to the king of the Khom kingdom"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ทะเล#Thai",
+    "frequencyRank": 1610
+  },
+  {
+    "word": "วง",
+    "partOfSpeech": "noun",
+    "romanization": "wong",
+    "glossShort": "round or roundish figure: circle, ring, egg, etc.",
+    "example": {
+      "text": "มดเดินเป็นวงรอบอาหาร",
+      "translation": "Ants walk in a circle around the food."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/วง#Thai",
+    "frequencyRank": 1617
+  },
+  {
+    "word": "นาน",
+    "partOfSpeech": "adj",
+    "romanization": "naan",
+    "glossShort": "long (having considerable duration in space or time)",
+    "example": {
+      "text": "ใช้เวลานานพอสมควร",
+      "translation": "took a considerably long time"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/นาน#Thai",
+    "frequencyRank": 1623
+  },
+  {
+    "word": "เท",
+    "partOfSpeech": "verb",
+    "romanization": "tee",
+    "glossShort": "to pour (out, down, away, etc.)",
+    "example": {
+      "text": "เทน้ำใส่แก้ว",
+      "translation": "to pour water into a glass"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เท#Thai",
+    "frequencyRank": 1632
+  },
+  {
+    "word": "ดาบ",
+    "partOfSpeech": "noun",
+    "romanization": "dàap",
+    "glossShort": "sword",
+    "example": {
+      "text": "ขอให้ชั่วโมงนี้เราชูดาบสู้ด้วยกัน จงประสบผล ลบรอยแค้น ล้างรอยพ่าย และอรุณสีเลือด",
+      "translation": "Let this be the hour when we draw swords together. Fell deeds awake. Now for wrath, now for ruin, and the red dawn!"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ดาบ#Thai",
+    "frequencyRank": 1637
+  },
+  {
+    "word": "พยายาม",
+    "partOfSpeech": "verb",
+    "romanization": "pá-yaa-yaam",
+    "glossShort": "to make an effort; to endeavor; to strive; to struggle; to try; to attempt; to persevere; to persist",
+    "example": {
+      "text": "มาตรา ๘๐ ผู้ใดลงมือกระทำความผิด แต่กระทำไปไม่ตลอด หรือกระทำไปตลอดแล้ว แต่การกระทำนั้นไม่บรรลุผล ผู้นั้นพยายามกระทำความผิด",
+      "translation": "Section 80 [When] anyone commences to commit an offence but does not carry [it] through or has carried [it] through but his action does not achieve [its] end, that one attempts to commit an offence."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/พยายาม#Thai",
+    "frequencyRank": 1668
+  },
+  {
+    "word": "สบาย",
+    "partOfSpeech": "adv",
+    "romanization": "sà-baai",
+    "glossShort": "well (in health); happy; comfortable",
+    "example": {
+      "text": "ไม่สบาย",
+      "translation": "unwell; ill"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/สบาย#Thai",
+    "frequencyRank": 1699
+  },
+  {
+    "word": "กระดาษ",
+    "partOfSpeech": "noun",
+    "romanization": "grà-dàat",
+    "glossShort": "paper",
+    "example": {
+      "text": "กระดาษหมด กรุณาเติมกระดาษ",
+      "translation": "Out of paper. Please refill paper."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/กระดาษ#Thai",
+    "frequencyRank": 1702
+  },
+  {
+    "word": "แดง",
+    "partOfSpeech": "adj",
+    "romanization": "dɛɛng",
+    "glossShort": "red",
+    "example": {
+      "text": "กางเกงสีแดง",
+      "translation": "red-colored pants"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/แดง#Thai",
+    "frequencyRank": 1728
+  },
+  {
+    "word": "จดหมาย",
+    "partOfSpeech": "noun",
+    "romanization": "jòt-mǎai",
+    "glossShort": "letter (message)",
+    "example": {
+      "text": "ตู้จดหมาย",
+      "translation": "mailbox"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/จดหมาย#Thai",
+    "frequencyRank": 1732
+  },
+  {
+    "word": "แถว",
+    "partOfSpeech": "noun",
+    "romanization": "tɛ̌o",
+    "glossShort": "area; locality; vicinity",
+    "example": {
+      "text": "แถวนี้มีไปรษณีย์ไหม",
+      "translation": "Is there a post office in this area?"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/แถว#Thai",
+    "frequencyRank": 1736
+  },
+  {
+    "word": "ชน",
+    "partOfSpeech": "noun",
+    "romanization": "chon",
+    "glossShort": "person, people",
+    "example": {
+      "text": "พุทธศาสนิกชน",
+      "translation": "Buddhist"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ชน#Thai",
+    "frequencyRank": 1785
+  },
+  {
+    "word": "พระ",
+    "partOfSpeech": "noun",
+    "romanization": "prá",
+    "glossShort": "god, deity; someone or something revered as a god or deity",
+    "example": {
+      "text": "อาการกิริยาคล้ายพระกรุงเทพฯ",
+      "translation": "[their] manners [and] conduct resemble [those of] the priests [in] Bangkok"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/พระ#Thai",
+    "frequencyRank": 1792
+  },
+  {
+    "word": "มกราคม",
+    "partOfSpeech": "name",
+    "romanization": "má-gà-raa-kom",
+    "glossShort": "January (the first month of the year under the Gregorian calendar)",
+    "example": {
+      "text": "ตั้งแต่วันที่ ๑ มกราคม ผมเดินทางไปร่วมงานปีใหม่กับคณะกรรมการป่าชุมชนที่บ้านทรัพย์โพธิ์ทอง",
+      "translation": "As of the 1st day of January, I travelled to join the New Year's party with the Community Forestry Committee in Sap Pho Thong Village."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/มกราคม#Thai",
+    "frequencyRank": 1875
+  },
+  {
+    "word": "นอน",
+    "partOfSpeech": "verb",
+    "romanization": "nɔɔn",
+    "glossShort": "to lie or lay (down, flat, etc.)",
+    "example": {
+      "text": "ชอบนอนกินขนมระวังจะเป็นกรดไหลย้อน",
+      "translation": "(If you) like to lie down snacking, beware of acid reflux."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/นอน#Thai",
+    "frequencyRank": 2031
+  },
+  {
+    "word": "ทำลาย",
+    "partOfSpeech": "verb",
+    "romanization": "tam-laai",
+    "glossShort": "to destroy; to ruin; to shatter; to break apart",
+    "example": {
+      "text": "ให้กองทัพพระยาราชสุภาวดีขึ้นไปทำลายเมืองเวียงจันท์",
+      "translation": "ordered the army of Phraya Ratchasuphawadi to march north to destroy the town of Wiang Chan"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ทำลาย#Thai",
+    "frequencyRank": 2068
+  },
+  {
+    "word": "ยอด",
+    "partOfSpeech": "noun",
+    "romanization": "yɔ̂ɔt",
+    "glossShort": "top; summit; apex; peak; upper or uppermost part",
+    "example": {
+      "text": "ยอดน้ำ",
+      "translation": "river source"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ยอด#Thai",
+    "frequencyRank": 2095
+  },
+  {
+    "word": "โอกาส",
+    "partOfSpeech": "noun",
+    "romanization": "oo-gàat",
+    "glossShort": "chance; occasion; opportunity",
+    "example": {
+      "text": "เขากำลังหาโอกาสที่จะแสดงศักยภาพในตัวออกมา",
+      "translation": "He is seeking the opportunity to show his potential."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/โอกาส#Thai",
+    "frequencyRank": 2114
+  },
+  {
+    "word": "ประหลาด",
+    "partOfSpeech": "adj",
+    "romanization": "bprà-làat",
+    "glossShort": "unusual, uncommon; different, dissimilar; strange, odd, queer; curious, singular, peculiar",
+    "example": {
+      "text": "ช้างสีประหลาดมาแต่เมืองนครศรีธรรมราชขึ้นท่าเตียน",
+      "translation": "An elephant [in] an exceptional colour came from Nakhon Si Thammarat Town [and] went ashore [at] Tian Pier."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ประหลาด#Thai",
+    "frequencyRank": 2127
+  },
+  {
+    "word": "อำนาจ",
+    "partOfSpeech": "noun",
+    "romanization": "am-nâat",
+    "glossShort": "authority; force; influence; power",
+    "example": {
+      "text": "รัฐบาลมีอำนาจในการสั่งยึดสิ่งพิมพ์ของพวกคอมมิวนิสต์",
+      "translation": "The government has the authority to order the seizing of communist publications."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/อำนาจ#Thai",
+    "frequencyRank": 2135
+  },
+  {
+    "word": "ออม",
+    "partOfSpeech": "verb",
+    "romanization": "ɔɔm",
+    "glossShort": "to save; to save up",
+    "example": {
+      "text": "ออมแรง",
+      "translation": "to save energy"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ออม#Thai",
+    "frequencyRank": 2242
+  },
+  {
+    "word": "ยาว",
+    "partOfSpeech": "adj",
+    "romanization": "yaao",
+    "glossShort": "long",
+    "example": {
+      "text": "ขายาว",
+      "translation": "long leg"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ยาว#Thai",
+    "frequencyRank": 2311
+  },
+  {
+    "word": "หวาน",
+    "partOfSpeech": "adj",
+    "romanization": "wǎan",
+    "glossShort": "sweet",
+    "example": {
+      "text": "เอวหวาน",
+      "translation": "sexy waist"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/หวาน#Thai",
+    "frequencyRank": 2331
+  },
+  {
+    "word": "แคนาดา",
+    "partOfSpeech": "name",
+    "romanization": "kɛɛ-naa-daa",
+    "glossShort": "Canada (a country in North America)",
+    "example": {
+      "text": "ประเทศแคนาดา",
+      "translation": "Canada (country)"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/แคนาดา#Thai",
+    "frequencyRank": 2338
+  },
+  {
+    "word": "สเปน",
+    "partOfSpeech": "name",
+    "romanization": "sà-bpeen",
+    "glossShort": "Spain (a country in Southern Europe, including most of the Iberian peninsula)",
+    "example": {
+      "text": "ประเทศสเปน",
+      "translation": "Spain (country)"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/สเปน#Thai",
+    "frequencyRank": 2356
+  },
+  {
+    "word": "ภาพ",
+    "partOfSpeech": "noun",
+    "romanization": "pâap",
+    "glossShort": "condition, state (as in compound words)",
+    "example": {
+      "text": "อิสรภาพ",
+      "translation": "independent state; independence"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ภาพ#Thai",
+    "frequencyRank": 2373
+  },
+  {
+    "word": "เยอะ",
+    "partOfSpeech": "adv",
+    "romanization": "yə́",
+    "glossShort": "a lot; many; much; plenty",
+    "example": {
+      "text": "วันนี้โรงพยาบาลมีคนไข้เยอะ",
+      "translation": "Today, the hospital has a lot of patients."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เยอะ#Thai",
+    "frequencyRank": 2375
+  },
+  {
+    "word": "โหวต",
+    "partOfSpeech": "verb",
+    "romanization": "wòot",
+    "glossShort": "to vote",
+    "example": {
+      "text": "จับปฏิกิริยาชาวทวิตเตอร์หลัง สนช. โหวตเห็นชอบ พ.ร.บ. ไซเบอร์",
+      "translation": "[Let's] watch reactions from Twitter peeps after the NLA voted in favour of the Cyber Act."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/โหวต#Thai",
+    "frequencyRank": 2378
+  },
+  {
+    "word": "ธนาคาร",
+    "partOfSpeech": "noun",
+    "romanization": "tá-naa-kaan",
+    "glossShort": "bank (financial institution)",
+    "example": {
+      "text": "ธนาคารเลือด",
+      "translation": "blood bank"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ธนาคาร#Thai",
+    "frequencyRank": 2396
+  },
+  {
+    "word": "ตำนาน",
+    "partOfSpeech": "noun",
+    "romanization": "dtam-naan",
+    "glossShort": "chapter (of the Paritta scripture).",
+    "example": {
+      "text": "ตำนานเงินตรา",
+      "translation": "History of currency"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ตำนาน#Thai",
+    "frequencyRank": 2408
+  },
+  {
+    "word": "ถาม",
+    "partOfSpeech": "verb",
+    "romanization": "tǎam",
+    "glossShort": "to ask",
+    "example": {
+      "text": "พยาบาลถามผู้ป่วยเกี่ยวกับประวัติการรักษา",
+      "translation": "The nurse asks the patient about the treatment history."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ถาม#Thai",
+    "frequencyRank": 2436
+  },
+  {
+    "word": "นางสาว",
+    "partOfSpeech": "noun",
+    "romanization": "naang-sǎao",
+    "glossShort": "a formal title which an unmarried woman over 15 years of age is required to use, and which a married woman, irrespective of the age, may use instead of the title นาง (naang). Abbreviation: น.ส. (nɔɔ-sɔ̌ɔ)",
+    "example": {
+      "text": "นางสาวไทย",
+      "translation": "Miss Thailand (beauty pageant title)"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/นางสาว#Thai",
+    "frequencyRank": 2446
+  },
+  {
+    "word": "รายการ",
+    "partOfSpeech": "noun",
+    "romanization": "raai-gaan",
+    "glossShort": "list; menu.",
+    "example": {
+      "text": "รายการสินค้า",
+      "translation": "product list"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/รายการ#Thai",
+    "frequencyRank": 2494
+  },
+  {
+    "word": "สามารถ",
+    "partOfSpeech": "verb",
+    "romanization": "sǎa-mâat",
+    "glossShort": "can; may; to be able (to) or suitable (for)",
+    "example": {
+      "text": "มีใครสามารถพูดภาษาฮินดีได้บ้าง?",
+      "translation": "Can anyone speak Hindi?"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/สามารถ#Thai",
+    "frequencyRank": 2495
+  },
+  {
+    "word": "ตก",
+    "partOfSpeech": "verb",
+    "romanization": "dtòk",
+    "glossShort": "to drop; to fall",
+    "example": {
+      "text": "สอบตก",
+      "translation": "to fail an examination"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ตก#Thai",
+    "frequencyRank": 2500
+  },
+  {
+    "word": "ฝน",
+    "partOfSpeech": "noun",
+    "romanization": "fǒn",
+    "glossShort": "rain (Classifier: หยด)",
+    "example": {
+      "text": "ฝนตก",
+      "translation": "The rain falls."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ฝน#Thai",
+    "frequencyRank": 2566
+  },
+  {
+    "word": "นม",
+    "partOfSpeech": "noun",
+    "romanization": "nom",
+    "glossShort": "milk",
+    "example": {
+      "text": "เด็ก ๆ ควรดื่มนมวันละสองแก้ว",
+      "translation": "Children should drink two cups of milk per day."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/นม#Thai",
+    "frequencyRank": 2588
+  },
+  {
+    "word": "แปล",
+    "partOfSpeech": "verb",
+    "romanization": "bplɛɛ",
+    "glossShort": "to translate; to interpret",
+    "example": {
+      "text": "แปลจากภาษาเขมรโบราณเป็นภาษาไทย",
+      "translation": "to translate from ancient Khmer language to Thai language"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/แปล#Thai",
+    "frequencyRank": 2620
+  },
+  {
+    "word": "ทางออก",
+    "partOfSpeech": "noun",
+    "romanization": "taang-ɔ̀ɔk",
+    "glossShort": "way out; exit; outlet",
+    "example": {
+      "text": "เราต้องหาทางออกของปัญหาคอร์รัปชันในประเทศ",
+      "translation": "We have to find a solution to the corruption problem in the country."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ทางออก#Thai",
+    "frequencyRank": 2636
+  },
+  {
+    "word": "แสน",
+    "partOfSpeech": "num",
+    "romanization": "sɛ̌ɛn",
+    "glossShort": "hundred thousand",
+    "example": {
+      "text": "ผู้เข้าร่วมวิจัยหนึ่งแสนคน",
+      "translation": "one hundred thousand research paticipants"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/แสน#Thai",
+    "frequencyRank": 2652
+  },
+  {
+    "word": "ประชาชน",
+    "partOfSpeech": "noun",
+    "romanization": "bprà-chaa-chon",
+    "glossShort": "national, citizen; citizenry, the people (of a nation), the public; people in general, the general public",
+    "example": {
+      "text": "ยูเอ็นประณามกองทัพซูดานสังหารประชาชน",
+      "translation": "UN denounces Sudan's army [for] killing citizens"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ประชาชน#Thai",
+    "frequencyRank": 2742
+  },
+  {
+    "word": "กฎ",
+    "partOfSpeech": "verb",
+    "romanization": "k ᶑ",
+    "glossShort": "to mark down, to note down, to write down; to record, to register, to document",
+    "example": {
+      "text": "ให้เอาไปยังกระลาการให้นายยุกระบัตรกฎคำ",
+      "translation": "[He] shall be sent to the trier of fact for the recordman to record [his] words."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/กฎ#Thai",
+    "frequencyRank": 2748
+  },
+  {
+    "word": "แยก",
+    "partOfSpeech": "verb",
+    "romanization": "yɛ̂ɛk",
+    "glossShort": "to part: to sever, to break, to divide, to separate, to keep apart, etc.",
+    "example": {
+      "text": "แยกถูกผิด",
+      "translation": "to discern right [from] wrong"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/แยก#Thai",
+    "frequencyRank": 2806
+  },
+  {
+    "word": "ลาออก",
+    "partOfSpeech": "verb",
+    "romanization": "laa-ɔ̀ɔk",
+    "glossShort": "to resign (from a post, role, etc).",
+    "example": {
+      "text": "พยาบาลจะลาออกสิ้นเดือนนี้ห้าคน",
+      "translation": "Five nurses will resign at this month's end."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ลาออก#Thai",
+    "frequencyRank": 2813
+  },
+  {
+    "word": "กา",
+    "partOfSpeech": "noun",
+    "romanization": "gaa",
+    "glossShort": "crow (bird)",
+    "example": {
+      "text": "กาตัวนั้น",
+      "translation": "that crow"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/กา#Thai",
+    "frequencyRank": 2889
+  },
+  {
+    "word": "ประเทศ",
+    "partOfSpeech": "noun",
+    "romanization": "bprà-têet",
+    "glossShort": "nation; also used as a prefix to the name of a nation",
+    "example": {
+      "text": "บริษัทจากประเทศโรมาเนีย",
+      "translation": "company from Romania (country)"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ประเทศ#Thai",
+    "frequencyRank": 2893
+  },
+  {
+    "word": "วาง",
+    "partOfSpeech": "verb",
+    "romanization": "waang",
+    "glossShort": "to lay; to put; to place; to set",
+    "example": {
+      "text": "สินสอด ๑๐ ตำลึงวางไว้บนธัญญาหาร",
+      "translation": "A dowry of ten taels was placed upon the cereals."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/วาง#Thai",
+    "frequencyRank": 2904
+  },
+  {
+    "word": "กรรมการ",
+    "partOfSpeech": "noun",
+    "romanization": "gam-má-gaan",
+    "glossShort": "attendant; servant; slave; worker",
+    "example": {
+      "text": "กรรมการศาลฎีกา",
+      "translation": "judge of the Supreme Court"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/กรรมการ#Thai",
+    "frequencyRank": 2968
+  },
+  {
+    "word": "หาย",
+    "partOfSpeech": "verb",
+    "romanization": "hǎai",
+    "glossShort": "to ruin, to wreck; to collapse, to fall; to perish, to be destroyed; to end, to pass",
+    "example": {
+      "text": "ผู้ใด...หายกว่าเหย้าเรือน...ไว้แก่ลูกมันสิ้น",
+      "translation": "Whoever...passed away [shall have his] household...devolve upon his children in its entirety."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/หาย#Thai",
+    "frequencyRank": 3011
+  },
+  {
+    "word": "กางเกงใน",
+    "partOfSpeech": "noun",
+    "romanization": "gaang-geeng-nai",
+    "glossShort": "underwear",
+    "example": {
+      "text": "กางเกงในสตรี",
+      "translation": "panties; women's underpants"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/กางเกงใน#Thai",
+    "frequencyRank": 3079
+  },
+  {
+    "word": "ปาก",
+    "partOfSpeech": "noun",
+    "romanization": "bpàak",
+    "glossShort": "mouth; lip; oral cavity",
+    "example": {
+      "text": "ใช้ปากทำงาน",
+      "translation": "to work with mouth"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ปาก#Thai",
+    "frequencyRank": 3097
+  },
+  {
+    "word": "ความสามารถ",
+    "partOfSpeech": "noun",
+    "romanization": "kwaam-sǎa-mâat",
+    "glossShort": "ability; capacity; competency",
+    "example": {
+      "text": "ความสามารถในการสื่อสารในภาษากวางตุ้ง",
+      "translation": "ability to communicate in Cantonese language"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ความสามารถ#Thai",
+    "frequencyRank": 3214
+  },
+  {
+    "word": "โสด",
+    "partOfSpeech": "adj",
+    "romanization": "sòot",
+    "glossShort": "single; unmarried",
+    "example": {
+      "text": "ผมยังโสดอยู่นะครับ",
+      "translation": "I am still single. (male speaker)"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/โสด#Thai",
+    "frequencyRank": 3248
+  },
+  {
+    "word": "เมา",
+    "partOfSpeech": "verb",
+    "romanization": "mao",
+    "glossShort": "to be intoxicated, as with alcohol, drug, etc.",
+    "example": {
+      "text": "เมาเหล้า",
+      "translation": "to be drunk.\n (literally) to be intoxicated with liquor."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เมา#Thai",
+    "frequencyRank": 3280
+  },
+  {
+    "word": "ประณาม",
+    "partOfSpeech": "verb",
+    "romanization": "bprà-naam",
+    "glossShort": "to salute, to worship; to praise, to extol.",
+    "example": {
+      "text": "ภูมินทร์นรินทร์จง จรให้นิกรประณาม",
+      "translation": "May Lord of Land, Lord of Men, come out for the people to adore."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ประณาม#Thai",
+    "frequencyRank": 3301
+  },
+  {
+    "word": "สะพาน",
+    "partOfSpeech": "noun",
+    "romanization": "sà-paan",
+    "glossShort": "bridge (construction)",
+    "example": {
+      "text": "สะพานข้ามแม่น้ำ",
+      "translation": "bridge over a river"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/สะพาน#Thai",
+    "frequencyRank": 3323
+  },
+  {
+    "word": "ทราบ",
+    "partOfSpeech": "verb",
+    "romanization": "sâap",
+    "glossShort": "to know; to understand; to realize",
+    "example": {
+      "text": "เมื่อเขาได้ทราบความจริง",
+      "translation": "When he gets to know the truth."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ทราบ#Thai",
+    "frequencyRank": 3360
+  },
+  {
+    "word": "ซอย",
+    "partOfSpeech": "verb",
+    "romanization": "sɔɔi",
+    "glossShort": "to mince; to slice",
+    "example": {
+      "text": "ต้นหอมซอย",
+      "translation": "sliced green onions"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ซอย#Thai",
+    "frequencyRank": 3361
+  },
+  {
+    "word": "เทวดา",
+    "partOfSpeech": "noun",
+    "romanization": "tee-wá-daa",
+    "glossShort": "god; deity; divine being; celestial being; immortal being",
+    "example": {
+      "text": "เทวดาซึ่งรักษาพระศาสนา จะรักษาแต่คนฝ่ายอกุศล",
+      "translation": "The deities that protect the holy religion will only protect those on the immoral side."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เทวดา#Thai",
+    "frequencyRank": 3415
+  },
+  {
+    "word": "เฮงซวย",
+    "partOfSpeech": "adj",
+    "romanization": "heng-suai",
+    "glossShort": "bad, poor, or low (in behaviour, performance, quality, condition, etc.)",
+    "example": {
+      "text": "อนุสรณ์ชี้แฮชแท็ก 'รัฐบาลเฮงซวย' ขึ้นอันดับ ๑ สะท้อนวิกฤติภาวะผู้นำ",
+      "translation": "Anusorn points out, the hashtag 'Shitty Government' rising to number one reflects leadership crisis"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เฮงซวย#Thai",
+    "frequencyRank": 3502
+  },
+  {
+    "word": "แสง",
+    "partOfSpeech": "noun",
+    "romanization": "sɛ̌ɛng",
+    "glossShort": "light",
+    "example": {
+      "text": "ห้องนี้แสงไม่พอ",
+      "translation": "This room does not have enough light."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/แสง#Thai",
+    "frequencyRank": 3619
+  },
+  {
+    "word": "ยาก",
+    "partOfSpeech": "adj",
+    "romanization": "yâak",
+    "glossShort": "rare, scarce; lacking, wanting",
+    "example": {
+      "text": "การผ่าตัดวันนี้เป็นการผ่าตัดยาก",
+      "translation": "The surgery today is a hard surgery."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ยาก#Thai",
+    "frequencyRank": 3624
+  },
+  {
+    "word": "จะตาย",
+    "partOfSpeech": "adv",
+    "romanization": "jà-dtaai",
+    "glossShort": "to death, to excess; very, greatly, extremely; quite, rather.",
+    "example": {
+      "text": "ร้อนจะตาย",
+      "translation": "hot to death (describing the weather)"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/จะตาย#Thai",
+    "frequencyRank": 3699
+  },
+  {
+    "word": "ผล",
+    "partOfSpeech": "noun",
+    "romanization": "pǒn",
+    "glossShort": "result; outcome; profit; effect",
+    "example": {
+      "text": "พวกเขากำลังศึกษาผลของการออกกำลังกายต่อสุขสมรรถนะ",
+      "translation": "They are studying the effects of exercise on health-related physical fitness."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ผล#Thai",
+    "frequencyRank": 3760
+  },
+  {
+    "word": "ความ",
+    "partOfSpeech": "noun",
+    "romanization": "kwaam",
+    "glossShort": "affair; matter",
+    "example": {
+      "text": "พระราชพงษาวดาร ความเก่า ตามต้นฉบับหลวงเขียนครั้งกรุงธนบุรี",
+      "translation": "A holy royal chronicle, old version, according to the royal manuscript written [during] the time of the Thon Buri kingdom"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ความ#Thai",
+    "frequencyRank": 3804
+  },
+  {
+    "word": "กางเกง",
+    "partOfSpeech": "noun",
+    "romanization": "gaang-geeng",
+    "glossShort": "a pair of pants or shorts",
+    "example": {
+      "text": "กางเกงใน",
+      "translation": "underpants"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/กางเกง#Thai",
+    "frequencyRank": 3830
+  },
+  {
+    "word": "ทา",
+    "partOfSpeech": "verb",
+    "romanization": "taa",
+    "glossShort": "to apply (something) by means of rubbing, smearing, painting, or the like; to apply something on (something) by such means",
+    "example": {
+      "text": "ทาลิป",
+      "translation": "to apply a lipstick"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ทา#Thai",
+    "frequencyRank": 4005
+  },
+  {
+    "word": "แผนก",
+    "partOfSpeech": "noun",
+    "romanization": "pà-nɛ̀ɛk",
+    "glossShort": "front, face; side, part; party, body",
+    "example": {
+      "text": "มหาวิทยาลัยอาจแบ่งส่วนราชการดังนี้ (๑) สำนักงานอธิการบดี (๒) บัณฑิตวิทยาลัย (๓) คณะ (๔) วิทยาลัย (๕) แผนกอิสระ",
+      "translation": "The University may divide [its] public service [into] the following: (1) Office of the Rector; (2) graduate colleges; (3) faculties; (4) colleges; (5) independent departments."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/แผนก#Thai",
+    "frequencyRank": 4006
+  },
+  {
+    "word": "หลาย",
+    "partOfSpeech": "adj",
+    "romanization": "lǎai",
+    "glossShort": "several; numerous",
+    "example": {
+      "text": "นักเรียนหลายคนจากโรงเรียนนี้",
+      "translation": "several students from this school"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/หลาย#Thai",
+    "frequencyRank": 4010
+  },
+  {
+    "word": "ไร",
+    "partOfSpeech": "adv",
+    "romanization": "rai",
+    "glossShort": "how; what; which; when; why",
+    "example": {
+      "text": "ปากเป็นไร",
+      "translation": "What happens to your mouth?"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ไร#Thai",
+    "frequencyRank": 4020
+  },
+  {
+    "word": "หมด",
+    "partOfSpeech": "verb",
+    "romanization": "mòt",
+    "glossShort": "to have no more; to run out (of)",
+    "example": {
+      "text": "หมดศรัทธา",
+      "translation": "to have no more faith"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/หมด#Thai",
+    "frequencyRank": 4027
+  },
+  {
+    "word": "คณะกรรมการ",
+    "partOfSpeech": "noun",
+    "romanization": "ká-ná-gam-má-gaan",
+    "glossShort": "group of persons set up to perform certain functions: board, committee, commission, council, etc.",
+    "example": {
+      "text": "คณะกรรมการวิจัยแห่งชาติ",
+      "translation": "National Research Council"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/คณะกรรมการ#Thai",
+    "frequencyRank": 4071
+  },
+  {
+    "word": "วางแผน",
+    "partOfSpeech": "verb",
+    "romanization": "waang-pɛ̌ɛn",
+    "glossShort": "to make a plan; to plan.",
+    "example": {
+      "text": "เราต้องวางแผนชีวิตเพื่อความมั่งคั่งในอนาคต",
+      "translation": "We have to make a life plan, so that we can be wealthy in the future."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/วางแผน#Thai",
+    "frequencyRank": 4087
+  },
+  {
+    "word": "ไซเรน",
+    "partOfSpeech": "noun",
+    "romanization": "sai-reen",
+    "glossShort": "siren.",
+    "example": {
+      "text": "เธอจะอยู่ที่ไหน จะเปิดไซเรนไปหาเธอแน่",
+      "translation": "No matter where you are, [I] will turn on [my] siren [and] rush to see you for sure."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ไซเรน#Thai",
+    "frequencyRank": 4131
+  },
+  {
+    "word": "ราช",
+    "partOfSpeech": "noun",
+    "romanization": "râat",
+    "glossShort": "king: male monarch or sovereign",
+    "example": {
+      "text": "นาคราช",
+      "translation": "King of serpents"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ราช#Thai",
+    "frequencyRank": 4208
+  },
+  {
+    "word": "ใจ",
+    "partOfSpeech": "noun",
+    "romanization": "jai",
+    "glossShort": "heart",
+    "example": {
+      "text": "ผิดที่คิดแต่จะรักษาหน้าตัวเอง ผิดที่คิดแต่จะเอาชนะคนบางคน ม้าลืมคิดถึงใจของเอ็ง",
+      "translation": "[I am] at fault, that [I] only thought of saving my own face. [I am] at fault, that [I] only thought of outsmarting someone. I forgot to think about the feelings of yours."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ใจ#Thai",
+    "frequencyRank": 4265
+  },
+  {
+    "word": "ทาส",
+    "partOfSpeech": "noun",
+    "romanization": "tâat",
+    "glossShort": "slave; servant (Classifier: คน)",
+    "example": {
+      "text": "เลิกทาส",
+      "translation": "to abolish slavery"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ทาส#Thai",
+    "frequencyRank": 4288
+  },
+  {
+    "word": "ชายหาด",
+    "partOfSpeech": "noun",
+    "romanization": "chaai-hàat",
+    "glossShort": "beach",
+    "example": {
+      "text": "ชายหาดบางแสน",
+      "translation": "Bang Saen Beach"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ชายหาด#Thai",
+    "frequencyRank": 4353
+  },
+  {
+    "word": "ไทย",
+    "partOfSpeech": "noun",
+    "romanization": "tai",
+    "glossShort": "person; human being",
+    "example": {
+      "text": "ภาษาไทยเหนือเขาใช้คำ \"มี\" หมายความเหมือนอย่างไทยใต้ว่า \"อยู่\"",
+      "translation": "[In] the language of the Northern Thais, they use the word \"mi\" in the same meaning as \"yu\" employed by the Southern [Central] Thais."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ไทย#Thai",
+    "frequencyRank": 4542
+  },
+  {
+    "word": "บท",
+    "partOfSpeech": "noun",
+    "romanization": "bòt",
+    "glossShort": "chapter (of a book)",
+    "example": {
+      "text": "มีข้อความพิมพ์ผิดในบทที่ห้า",
+      "translation": "to contain a typo in chapter five"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/บท#Thai",
+    "frequencyRank": 4684
+  },
+  {
+    "word": "กระทง",
+    "partOfSpeech": "noun",
+    "romanization": "grà-tong",
+    "glossShort": "container made in various forms of leaves or paper (Classifiers: กระทง or ใบ)",
+    "example": {
+      "text": "เทเครื่องที่ผสมนี้ลงในกระทงกระดาษ ๖ กระทง พรมด้วยน้ำตาล",
+      "translation": "Pour these ingredients that have been mixed down into six paper krathong [and] sprinkle [them] with sugar."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/กระทง#Thai",
+    "frequencyRank": 4715
+  },
+  {
+    "word": "สะอาด",
+    "partOfSpeech": "adj",
+    "romanization": "sà-àat",
+    "glossShort": "clean (physically or morally), immaculate, spotless, pure, untainted",
+    "example": {
+      "text": "โรงแรมนี้สะอาดมาก",
+      "translation": "This hotel is very clean."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/สะอาด#Thai",
+    "frequencyRank": 4776
+  },
+  {
+    "word": "จำเลย",
+    "partOfSpeech": "noun",
+    "romanization": "jam-ləəi",
+    "glossShort": "defendant; defending party",
+    "example": {
+      "text": "มาตรา ๘๓ ทวิ ในกรณีที่จำเลยไม่มีภูมิลำเนาอยู่ในราชอาณาจักร ให้ส่งหมายเรียกและคำฟ้องตั้งต้นคดีแก่จำเลย ณ ภูมิลำเนาหรือสำนักทำการงานของจำเลยนอกราชอาณาจักร",
+      "translation": "Section 83 bis In the event that the defendant has no domicile within the Kingdom, the summons and the plaint instituting the case shall be served upon the defendant at the domicile or office of the defendant outside the Kingdom."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/จำเลย#Thai",
+    "frequencyRank": 4898
+  },
+  {
+    "word": "สด",
+    "partOfSpeech": "adj",
+    "romanization": "sòt",
+    "glossShort": "fresh; raw (cultivated, dairy, or meat products).",
+    "example": {
+      "text": "ผักสด",
+      "translation": "fresh vegetables"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/สด#Thai",
+    "frequencyRank": 4936
+  },
+  {
+    "word": "มาตรา",
+    "partOfSpeech": "noun",
+    "romanization": "mâat-dtraa",
+    "glossShort": "system (of units of seize, time, volume, etc.)",
+    "example": {
+      "text": "มาตราเมตริก",
+      "translation": "Metric system"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/มาตรา#Thai",
+    "frequencyRank": 4973
+  },
+  {
+    "word": "โรค",
+    "partOfSpeech": "noun",
+    "romanization": "rôok",
+    "glossShort": "disease; sickness",
+    "example": {
+      "text": "โรคติดเชื้อ",
+      "translation": "infectious disease"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/โรค#Thai",
+    "frequencyRank": 4990
+  },
+  {
+    "word": "กฎหมาย",
+    "partOfSpeech": "verb",
+    "romanization": "gòt-mǎai",
+    "glossShort": "to mark down, to note down, to write down; to record, to register, to document",
+    "example": {
+      "text": "ราษฎรวิวาทด่าตีกัน มายังแพ่งให้กฎหมายบาทเจบไซ้ ให้นายพะทำมะรงดูบาทเจบ",
+      "translation": "[When] citizens brawl [with] each other [and] come to a phaeng for [having their] injuries recorded, the watchman shall examine [their] injuries."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/กฎหมาย#Thai",
+    "frequencyRank": 5130
+  },
+  {
+    "word": "ครบรอบ",
+    "partOfSpeech": "verb",
+    "romanization": "króp-rɔ̂ɔp",
+    "glossShort": "to mark or be the recurrence (as of the date of a past event).",
+    "example": {
+      "text": "ครบรอบ ๓ ปี",
+      "translation": "to mark the third anniversary\n (literally) to complete a three-year cycle"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ครบรอบ#Thai",
+    "frequencyRank": 5381
+  },
+  {
+    "word": "ทดลอง",
+    "partOfSpeech": "verb",
+    "romanization": "tót-lɔɔng",
+    "glossShort": "to test; to experiment; to try out",
+    "example": {
+      "text": "หลอดทดลอง",
+      "translation": "test tube"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ทดลอง#Thai",
+    "frequencyRank": 5631
+  },
+  {
+    "word": "มองหา",
+    "partOfSpeech": "verb",
+    "romanization": "mɔɔng-hǎa",
+    "glossShort": "to look for",
+    "example": {
+      "text": "เรากำลังมองหาร้าน",
+      "translation": "We are looking for a shop."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/มองหา#Thai",
+    "frequencyRank": 5725
+  },
+  {
+    "word": "หยด",
+    "partOfSpeech": "noun",
+    "romanization": "yòt",
+    "glossShort": "drop.",
+    "example": {
+      "text": "หยดน้ำ",
+      "translation": "waterdrop, drop of water"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/หยด#Thai",
+    "frequencyRank": 5781
+  },
+  {
+    "word": "เดน",
+    "partOfSpeech": "noun",
+    "romanization": "deen",
+    "glossShort": "someone or something that is left and is no longer wanted.",
+    "example": {
+      "text": "พราหมณ์ ส่วนอันเลิศก็ดี ภัตที่ท่านแบ่งครึ่งบริโภคแล้วก็ดี เป็นของสมควรแก่เราทั้งนั้น แม้ก้อนภัตที่เป็นเดนเป็นของสมควรแก่เราเหมือนกัน",
+      "translation": "Brahman, the parts that are excellent [in taste], the victuals that thou hast already divided in half [and] consumed, are things suiting me in every respect. Even a lump of rice that is a den is a thing befitting me likewise."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เดน#Thai",
+    "frequencyRank": 6335
+  },
+  {
+    "word": "รบกวน",
+    "partOfSpeech": "verb",
+    "romanization": "róp-guuan",
+    "glossShort": "to disturb; to bother; to annoy.",
+    "example": {
+      "text": "ห้ามรบกวน",
+      "translation": "Do not disturb."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/รบกวน#Thai",
+    "frequencyRank": 6405
+  },
+  {
+    "word": "แตก",
+    "partOfSpeech": "verb",
+    "romanization": "dtɛ̀ɛk",
+    "glossShort": "to break; to crack; to split; to fracture",
+    "example": {
+      "text": "ท่อแตก",
+      "translation": "A pipe breaks."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/แตก#Thai",
+    "frequencyRank": 6640
+  },
+  {
+    "word": "แรก",
+    "partOfSpeech": "adj",
+    "romanization": "rɛ̂ɛk",
+    "glossShort": "first; being before all others with respect to time, order, rank, importance, etc.",
+    "example": {
+      "text": "ใครจะลองเป็นคนแรก",
+      "translation": "Who'll be the first one to try this?"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/แรก#Thai",
+    "frequencyRank": 6759
+  },
+  {
+    "word": "แพง",
+    "partOfSpeech": "adj",
+    "romanization": "pɛɛng",
+    "glossShort": "expensive; of a high price",
+    "example": {
+      "text": "ห้าล้านบาท? แพงโคตร!",
+      "translation": "Five million baht? That's too expensive!"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/แพง#Thai",
+    "frequencyRank": 6856
+  },
+  {
+    "word": "ศาสนา",
+    "partOfSpeech": "noun",
+    "romanization": "sàat-sà-nǎa",
+    "glossShort": "religion.",
+    "example": {
+      "text": "คุณนับถือศาสนาอะไร?",
+      "translation": "What religion do you believe in?; What is your religion?"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ศาสนา#Thai",
+    "frequencyRank": 6892
+  },
+  {
+    "word": "อาการ",
+    "partOfSpeech": "noun",
+    "romanization": "aa-gaan",
+    "glossShort": "condition; state; status",
+    "example": {
+      "text": "อาการหนัก",
+      "translation": "serious condition"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/อาการ#Thai",
+    "frequencyRank": 7004
+  },
+  {
+    "word": "กลาโหม",
+    "partOfSpeech": "noun",
+    "romanization": "gà-laa-hǒom",
+    "glossShort": "assembly of military personnel; muster of warriors",
+    "example": {
+      "text": "พระยากลาโหมแก่งแย่งวิวาทกับสมเด็จเจ้าฟ้าทลหะ...พระหริรักษ์ให้ถอดพระยายมราชกับพระยากลาโหม",
+      "translation": "Phraya Kalahom disputed [and] quarrelled with Somdet Chaofa Thalaha. […] Phra Harirak [then] had Phraya Yommarat and Phraya Kalahom dismissed."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/กลาโหม#Thai",
+    "frequencyRank": 7026
+  },
+  {
+    "word": "กระผม",
+    "partOfSpeech": "pron",
+    "romanization": "grà-pǒm",
+    "glossShort": "a first person pronoun employed by a male when addressing a person he respects or a person of equal or higher status.",
+    "example": {
+      "text": "โปรดพิจารณางานของกระผมด้วย",
+      "translation": "Please consider this work of mine!"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/กระผม#Thai",
+    "frequencyRank": 7329
+  },
+  {
+    "word": "ยาวนาน",
+    "partOfSpeech": "adj",
+    "romanization": "yaao-naan",
+    "glossShort": "long.",
+    "example": {
+      "text": "รัฐบาลเผด็จการทหารพม่าสั่งจำคุก 20 ปีช่างภาพข่าว...นับเป็นการลงโทษจำคุกยาวนานที่สุดต่อคนทำงานสื่อ...หลังรัฐประหารปี 2564",
+      "translation": "The Burmese military dictatorship government ordered 20-year imprisonment for a newspaper photographer... [This is] considered the longest imprisonment sentence imposed upon a media worker...after the coup of the year 2564."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ยาวนาน#Thai",
+    "frequencyRank": 7397
+  },
+  {
+    "word": "ลมหายใจ",
+    "partOfSpeech": "noun",
+    "romanization": "lom-hǎai-jai",
+    "glossShort": "breath.",
+    "example": {
+      "text": "รักของเราอยู่ในลมหายใจ ไม่มีใครจะมาพรากมันไปได้เลย",
+      "translation": "Our love lives in [our] breath. There's no one can take it away at all."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ลมหายใจ#Thai",
+    "frequencyRank": 7482
+  },
+  {
+    "word": "สอบสวน",
+    "partOfSpeech": "verb",
+    "romanization": "sɔ̀ɔp-sǔuan",
+    "glossShort": "to inquire; to conduct an inquiry.",
+    "example": {
+      "text": "มาตรา ๑๒๑ พนักงานสอบสวนมีอำนาจสอบสวนคดีอาญาทั้งปวง",
+      "translation": "Section 121 Inquiry officials have the power to inquire into all criminal cases."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/สอบสวน#Thai",
+    "frequencyRank": 7674
+  },
+  {
+    "word": "ไมโครเวฟ",
+    "partOfSpeech": "noun",
+    "romanization": "mai-kroo-wéep",
+    "glossShort": "microwave.",
+    "example": {
+      "text": "เป็นมหาพ่อไมโครเวฟยามอยู่กับคนรัก",
+      "translation": "[He] is the Great Mr Microwave when being with [his] lover."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ไมโครเวฟ#Thai",
+    "frequencyRank": 7783
+  },
+  {
+    "word": "ถอด",
+    "partOfSpeech": "verb",
+    "romanization": "tɔ̀ɔt",
+    "glossShort": "to remove; to take off",
+    "example": {
+      "text": "การถอดเป็นอักษรโรมัน",
+      "translation": "romanization"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ถอด#Thai",
+    "frequencyRank": 7806
+  },
+  {
+    "word": "เมตตา",
+    "partOfSpeech": "noun",
+    "romanization": "mêet-dtaa",
+    "glossShort": "kindness; compassion; benevolence; mercifulness",
+    "example": {
+      "text": "ให้มีเมตตาต่อกันและช่วยเหลือเกื้อกูลกันให้มากที่สุด",
+      "translation": "Be kind to each other and help each other as much as possible."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เมตตา#Thai",
+    "frequencyRank": 8178
+  },
+  {
+    "word": "โลมา",
+    "partOfSpeech": "noun",
+    "romanization": "loo-maa",
+    "glossShort": "dolphin.",
+    "example": {
+      "text": "ปลาโลมา",
+      "translation": "dolphin (literally: dolphin fish)"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/โลมา#Thai",
+    "frequencyRank": 8251
+  },
+  {
+    "word": "ภายนอก",
+    "partOfSpeech": "prep",
+    "romanization": "paai-nɔ̂ɔk",
+    "glossShort": "without; outside.",
+    "example": {
+      "text": "ทั้งภายในและภายนอกอาคาร",
+      "translation": "both within and without a building; both inside and outside a building"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ภายนอก#Thai",
+    "frequencyRank": 8286
+  },
+  {
+    "word": "ทอย",
+    "partOfSpeech": "verb",
+    "romanization": "tɔɔi",
+    "glossShort": "to pitch (a penny, etc.); to throw or toss (from a low level, aiming at something)",
+    "example": {
+      "text": "ทอยลูกเต๋า",
+      "translation": "roll the dice"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ทอย#Thai",
+    "frequencyRank": 8911
+  },
+  {
+    "word": "ราง",
+    "partOfSpeech": "noun",
+    "romanization": "raang",
+    "glossShort": "rail; track",
+    "example": {
+      "text": "รางรถไฟ",
+      "translation": "rail track"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ราง#Thai",
+    "frequencyRank": 8978
+  },
+  {
+    "word": "ทอด",
+    "partOfSpeech": "verb",
+    "romanization": "tɔ̂ɔt",
+    "glossShort": "to fry, as in fat or oil",
+    "example": {
+      "text": "ทอดกล้วยขายเพื่อพยุงฐานะทางครอบครัว",
+      "translation": "[She] fried bananas for sale to support the condition of [her] family."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ทอด#Thai",
+    "frequencyRank": 9673
+  },
+  {
+    "word": "ความหมาย",
+    "partOfSpeech": "noun",
+    "romanization": "kwaam-mǎai",
+    "glossShort": "intention; wish.",
+    "example": {
+      "text": "ขอผลแห่งการกุศล...บันดาลให้ท้าววรคณานันต์...สมดังความหมายทุกประการ",
+      "translation": "May the outcome of the charitable activity ... cause Thao Worakhananan to ... accomplish [her] wishes in every respect."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ความหมาย#Thai",
+    "frequencyRank": 9755
+  },
+  {
+    "word": "โต",
+    "partOfSpeech": "adj",
+    "romanization": "dtoo",
+    "glossShort": "big; large",
+    "example": {
+      "text": "โตขึ้น",
+      "translation": "to grow up; to grow bigger."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/โต#Thai",
+    "frequencyRank": 9759
+  },
+  {
+    "word": "ลด",
+    "partOfSpeech": "verb",
+    "romanization": "lót",
+    "glossShort": "to lower, to reduce",
+    "example": {
+      "text": "ลดธงครึ่งเสานานหนึ่งเดือน",
+      "translation": "to lower the flag to half mast for one month"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ลด#Thai",
+    "frequencyRank": 9765
+  },
+  {
+    "word": "เพดาน",
+    "partOfSpeech": "noun",
+    "romanization": "pee-daan",
+    "glossShort": "ceiling.",
+    "example": {
+      "text": "ทาสีเพดาน",
+      "translation": "to paint the ceiling"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เพดาน#Thai",
+    "frequencyRank": 9909
+  },
+  {
+    "word": "โหลด",
+    "partOfSpeech": "verb",
+    "romanization": "lòot",
+    "glossShort": "to put a load on or in.",
+    "example": {
+      "text": "โหลดของขึ้นเครื่อง",
+      "translation": "To load goods onto an aircraft."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/โหลด#Thai",
+    "frequencyRank": 9956
+  },
+  {
+    "word": "ปลอด",
+    "partOfSpeech": "verb",
+    "romanization": "bplɔ̀ɔt",
+    "glossShort": "to be without; to have none; to be free (from); to be away (from)",
+    "example": {
+      "text": "ปลอดคน",
+      "translation": "to have no one; to be without [any]one; to be away [from] people"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ปลอด#Thai",
+    "frequencyRank": 10158
+  },
+  {
+    "word": "หลอด",
+    "partOfSpeech": "noun",
+    "romanization": "lɔ̀ɔt",
+    "glossShort": "drinking straw",
+    "example": {
+      "text": "หลอดตะเกียง",
+      "translation": "lamp tube"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/หลอด#Thai",
+    "frequencyRank": 10689
+  },
+  {
+    "word": "คณะ",
+    "partOfSpeech": "noun",
+    "romanization": "ká-ná",
+    "glossShort": "group; body; party; company; assemblage",
+    "example": {
+      "text": "เนื่องจากไม่มีคณะใดในวัด...รับพระมหาอุเทนเข้าสังกัด",
+      "translation": "because there is no any section in the monastery […] accepting Phramaha Uthen into [its] care"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/คณะ#Thai",
+    "frequencyRank": 10809
+  },
+  {
+    "word": "สวด",
+    "partOfSpeech": "verb",
+    "romanization": "sùuat",
+    "glossShort": "to recite; to chant; to intone.",
+    "example": {
+      "text": "สำนักพุทธฯ ให้วัดทั่วปท. สวดบทรัตนสูตรขจัดโควิด-19",
+      "translation": "Buddhism Office orders monasteries throughout the country to chant Ratana Sutta discourse for eliminating COVID-19"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/สวด#Thai",
+    "frequencyRank": 10867
+  },
+  {
+    "word": "ปราศจาก",
+    "partOfSpeech": "prep",
+    "romanization": "bpràat-sà-jàak",
+    "glossShort": "without; excluding; lacking; free from.",
+    "example": {
+      "text": "บุคคลย่อมมีเสรีภาพในการชุมนุมโดยสงบและปราศจากอาวุธ\nbùk-kon yɔ̂m mii sěe-rii-pâap nai gaan-chum-num dooi sà-ngòp lɛ́ɛ bpràat-sà-jàak aa-wút.\nPersons do enjoy the freedom to assemble peacefully and without arms.\nการเข้าไปในเคหสถานโดยปราศจากความยินยอมของผู้ครอบครอง หรือการตรวจค้นเคหสถานหรือในที่รโหฐาน จะกระทำมิได้ เว้นแต่มีคำสั่งหรือหมายของศาล หรือมีเหตุอย่างอื่นตามที่กฎหมายบัญญัติ",
+      "translation": "Prohibited are entries into a dwelling place without the consent of its occupier, as well as searches of a dwelling place or in a private place, save where they are authorised by judicial orders or warrants or by other grounds as designated by the laws."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ปราศจาก#Thai",
+    "frequencyRank": 10992
+  },
+  {
+    "word": "เบลอ",
+    "partOfSpeech": "verb",
+    "romanization": "bləə",
+    "glossShort": "to blur.",
+    "example": {
+      "text": "เบลอภาพ",
+      "translation": "to blur a picture"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เบลอ#Thai",
+    "frequencyRank": 11099
+  },
+  {
+    "word": "สาธารณะ",
+    "partOfSpeech": "adj",
+    "romanization": "sǎa-taa-rá-ná",
+    "glossShort": "public; common",
+    "example": {
+      "text": "ห้องน้ำสาธารณะ",
+      "translation": "public toilet"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/สาธารณะ#Thai",
+    "frequencyRank": 11249
+  },
+  {
+    "word": "เลก",
+    "partOfSpeech": "noun",
+    "romanization": "lêek",
+    "glossShort": "fully-grown or able-bodied male citizen, especially one subject to forced labour, military service, or similar service; person or personnel; serviceman",
+    "example": {
+      "text": "พระราชทานเลกข้าพระไว้อุปถากพระอาราม",
+      "translation": "gave away men [and] ecclesiastical slaves for maintenance of holy monasteries"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เลก#Thai",
+    "frequencyRank": 11382
+  },
+  {
+    "word": "อด",
+    "partOfSpeech": "verb",
+    "romanization": "òt",
+    "glossShort": "to abstain or refrain (from); to forbear",
+    "example": {
+      "text": "เห็นจะอดฝิ่นได้",
+      "translation": "[He] seems to be able to abstain [from] opium."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/อด#Thai",
+    "frequencyRank": 11700
+  },
+  {
+    "word": "แดก",
+    "partOfSpeech": "verb",
+    "romanization": "dɛ̀ɛk",
+    "glossShort": "to consume; to drink; to eat.",
+    "example": {
+      "text": "ใบ้แดก",
+      "translation": "To be rendered speechless\n (literally) To be consumed by muteness"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/แดก#Thai",
+    "frequencyRank": 11804
+  },
+  {
+    "word": "ราก",
+    "partOfSpeech": "noun",
+    "romanization": "râak",
+    "glossShort": "root; foundation; source",
+    "example": {
+      "text": "รากไม้",
+      "translation": "tree root"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ราก#Thai",
+    "frequencyRank": 11874
+  },
+  {
+    "word": "บาฮามาส",
+    "partOfSpeech": "name",
+    "romanization": "baa-haa-máas",
+    "glossShort": "Bahamas (an archipelago and country in the Caribbean)",
+    "example": {
+      "text": "ประเทศบาฮามาส",
+      "translation": "Bahamas (country)"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/บาฮามาส#Thai",
+    "frequencyRank": 12116
+  },
+  {
+    "word": "เมม",
+    "partOfSpeech": "noun",
+    "romanization": "mem",
+    "glossShort": "memory: the part of a computer in which certain information subject to recall is stored.",
+    "example": {
+      "text": "มือถือเมมเต็ม",
+      "translation": "The memory of a mobile phone is full."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เมม#Thai",
+    "frequencyRank": 12165
+  },
+  {
+    "word": "ครอบงำ",
+    "partOfSpeech": "verb",
+    "romanization": "krɔ̂ɔp-ngam",
+    "glossShort": "to administer; to govern; to rule",
+    "example": {
+      "text": "แนะนำครอบงำผู้พิพากษาตุลาการทั่วหัวเมืองมณฑล",
+      "translation": "to guide [and] govern judges [and] justices throughout the provinces [and] prefectures"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ครอบงำ#Thai",
+    "frequencyRank": 13074
+  },
+  {
+    "word": "ปลด",
+    "partOfSpeech": "verb",
+    "romanization": "bplòt",
+    "glossShort": "to cause to be out, open, or loose: to take or put out, down, or off, to undo, to unfasten, to untie, to unbind, to let loose, etc",
+    "example": {
+      "text": "ปลดกระดุม",
+      "translation": "to undo a button"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ปลด#Thai",
+    "frequencyRank": 13092
+  },
+  {
+    "word": "ขาด",
+    "partOfSpeech": "verb",
+    "romanization": "kàat",
+    "glossShort": "to stop; to cease; to pause",
+    "example": {
+      "text": "บางท่านก็เห็นว่าอ่านหนังสือที่ไม่มีคำนำนั้น เปรียบเหมือนซดแกงที่ขาดน้ำปลาดี",
+      "translation": "Some people are of the opinion that reading a book without a preface is akin to drinking soup that lacks fine fish sauce."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ขาด#Thai",
+    "frequencyRank": 13160
+  },
+  {
+    "word": "เดา",
+    "partOfSpeech": "verb",
+    "romanization": "dao",
+    "glossShort": "to guess",
+    "example": {
+      "text": "ลองเดาดูสิ",
+      "translation": "take a guess"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เดา#Thai",
+    "frequencyRank": 13197
+  },
+  {
+    "word": "ปวด",
+    "partOfSpeech": "verb",
+    "romanization": "bpùuat",
+    "glossShort": "to ache; to be in pain",
+    "example": {
+      "text": "ผู้ป่วยปวดกลางท้อง",
+      "translation": "The patient aches (at the) middle of the stomach)"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ปวด#Thai",
+    "frequencyRank": 13204
+  },
+  {
+    "word": "สม",
+    "partOfSpeech": "verb",
+    "romanization": "sǒm",
+    "glossShort": "to suit; to fit; to befit",
+    "example": {
+      "text": "สมศักดิ์ศรี",
+      "translation": "to befit [one's] dignity"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/สม#Thai",
+    "frequencyRank": 13243
+  },
+  {
+    "word": "โทรเลข",
+    "partOfSpeech": "noun",
+    "romanization": "too-rá-lêek",
+    "glossShort": "telegraph; telegram",
+    "example": {
+      "text": "เมื่อรัถบาลไนกรุงเทพฯ ได้รับโทรเลขว่าเกิดกบดที่เมืองพูเก็ต",
+      "translation": "When the Government in Bangkok received a telegram that rebellion broke out in the town of Phuket"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/โทรเลข#Thai",
+    "frequencyRank": 13270
+  },
+  {
+    "word": "ทำใจ",
+    "partOfSpeech": "verb",
+    "romanization": "tam-jai",
+    "glossShort": "to force oneself, reconcile oneself, or come (as to accept something painful or difficult).",
+    "example": {
+      "text": "ทำใจยอมรับ",
+      "translation": "to come to accept"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ทำใจ#Thai",
+    "frequencyRank": 13447
+  },
+  {
+    "word": "กระบวนการ",
+    "partOfSpeech": "noun",
+    "romanization": "grà-buuan-gaan",
+    "glossShort": "process: natural series of change; series of actions or steps for achieving a particular end; systematic series of mechanised or chemical operations for producing something.",
+    "example": {
+      "text": "กระบวนการทางศาล",
+      "translation": "judicial process"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/กระบวนการ#Thai",
+    "frequencyRank": 13685
+  },
+  {
+    "word": "สอบ",
+    "partOfSpeech": "verb",
+    "romanization": "sɔ̀ɔp",
+    "glossShort": "to examine:",
+    "example": {
+      "text": "สพป. นราธิวาสตั้งกรรมการสอบครูคอมเมนต์โทษเหยื่อรุมโทรมตากใบ",
+      "translation": "The Narathiwat PESAO sets up a committee to look into [the case of] a teacher posting a comment blaming the Tak Bai gang rape victim."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/สอบ#Thai",
+    "frequencyRank": 14079
+  },
+  {
+    "word": "บงการ",
+    "partOfSpeech": "verb",
+    "romanization": "bong-gaan",
+    "glossShort": "to dictate: to command unconditionally.",
+    "example": {
+      "text": "แกโกรธเกลียดม้ามากใช่ไหมที่ม้าคอยบงการบังคับชีวิตแก",
+      "translation": "You [must be] much furious [at me and] detesting me, right? As I kept dictating [and] directing your life."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/บงการ#Thai",
+    "frequencyRank": 14146
+  },
+  {
+    "word": "ตะคอก",
+    "partOfSpeech": "verb",
+    "romanization": "dtà-kɔ̂ɔk",
+    "glossShort": "to yell",
+    "example": {
+      "text": "เขาไม่มีใครคบเพราะชอบตะคอกใส่คนอื่น",
+      "translation": "He is friendless because he likes to yell at other people."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ตะคอก#Thai",
+    "frequencyRank": 14208
+  },
+  {
+    "word": "หอม",
+    "partOfSpeech": "adj",
+    "romanization": "hɔ̌ɔm",
+    "glossShort": "having or emitting a pleasant scent: scented, sweet-scented, sweet-smelling, aromatic, redolent, fragrant perfumed, etc.",
+    "example": {
+      "text": "ทุเรียนมีกลิ่นหอม",
+      "translation": "Durians have a fragrant smell."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/หอม#Thai",
+    "frequencyRank": 14427
+  },
+  {
+    "word": "แดด",
+    "partOfSpeech": "noun",
+    "romanization": "dɛ̀ɛt",
+    "glossShort": "sunlight; sunshine",
+    "example": {
+      "text": "นำไปตากแดดนานห้าชั่วโมง",
+      "translation": "to take to dry in the sunlight for five hours"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/แดด#Thai",
+    "frequencyRank": 14901
+  },
+  {
+    "word": "จำนอง",
+    "partOfSpeech": "noun",
+    "romanization": "jam-nɔɔng",
+    "glossShort": "mortgage.",
+    "example": {
+      "text": "คำว่า จำนอง แต่ก่อนใช้ร่วมไปด้วยกับคำว่า จำนำ และมีความเหมือนกัน เพิ่งใช้ตามความในประมวลกฎหมายแพ่งและพาณิชย์ในสมัยปัจจุบัน",
+      "translation": "The term chamnong was formerly used together with the term chamnam and the two were synonymous. They have just been used according to the Civil and Commercial Code in our days."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/จำนอง#Thai",
+    "frequencyRank": 15146
+  },
+  {
+    "word": "ซกมก",
+    "partOfSpeech": "adj",
+    "romanization": "sók-mók",
+    "glossShort": "unhygienic; unclean; dirty.",
+    "example": {
+      "text": "รูมเมตซกมก สุมขยะเต็มห้อง",
+      "translation": "unhygienic roommate heaps up garbage all over the room"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ซกมก#Thai",
+    "frequencyRank": 15264
+  },
+  {
+    "word": "กระทำชำเรา",
+    "partOfSpeech": "verb",
+    "romanization": "grà-tam-cham-rao",
+    "glossShort": "to carry out sexual intercourse (with); to have sex (with)",
+    "example": {
+      "text": "ลงโทษผู้พยายามจะกระทำชำเราผิดธรรมดาโลกย์",
+      "translation": "to punish those who attempt to commit intercourse against the order of nature"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/กระทำชำเรา#Thai",
+    "frequencyRank": 15329
+  },
+  {
+    "word": "มอนเตเนโกร",
+    "partOfSpeech": "name",
+    "romanization": "mɔɔn-dtee-nee-groo",
+    "glossShort": "Montenegro (a country on the Balkan Peninsula in Southeastern Europe)",
+    "example": {
+      "text": "ประเทศมอนเตเนโกร",
+      "translation": "Montenegro (country)"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/มอนเตเนโกร#Thai",
+    "frequencyRank": 15454
+  },
+  {
+    "word": "ฝาก",
+    "partOfSpeech": "verb",
+    "romanization": "fàak",
+    "glossShort": "to deposit (e.g., money); leave; entrust (something); consign",
+    "example": {
+      "text": "คุณฝากเงินที่ตู้นี้ได้",
+      "translation": "You can deposit money at this machine."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ฝาก#Thai",
+    "frequencyRank": 15622
+  },
+  {
+    "word": "กระสวย",
+    "partOfSpeech": "noun",
+    "romanization": "grà-sǔai",
+    "glossShort": "shuttle; spindle.",
+    "example": {
+      "text": "กระสวยอวกาศ",
+      "translation": "space shuttle"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/กระสวย#Thai",
+    "frequencyRank": 15805
+  },
+  {
+    "word": "คนบาป",
+    "partOfSpeech": "noun",
+    "romanization": "kon-bàap",
+    "glossShort": "sinner",
+    "example": {
+      "text": "เขาเชื่อว่าคนบาปทุกคนควรสำนึกผิด",
+      "translation": "He believes that all sinners should repent."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/คนบาป#Thai",
+    "frequencyRank": 16210
+  },
+  {
+    "word": "โมนาโก",
+    "partOfSpeech": "name",
+    "romanization": "moo-naa-goo",
+    "glossShort": "Monaco (a city-state in Western Europe)",
+    "example": {
+      "text": "ประเทศโมนาโก",
+      "translation": "Monaco (country)"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/โมนาโก#Thai",
+    "frequencyRank": 16410
+  },
+  {
+    "word": "กระทรวง",
+    "partOfSpeech": "noun",
+    "romanization": "grà-suuang",
+    "glossShort": "kind; type; sort; category",
+    "example": {
+      "text": "ถ้ามีผู้ร้ายลักช้างม้าผู้คนโคกระบือทรัพยสิ่งใด ๆ เปนกระทรวงนครบาลได้ว่า",
+      "translation": "If there is an outlaw stealing elephants, horses, men, bulls, buffaloes, [or] any [other] property, it is a case [which] the City Administration is entitled to address."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/กระทรวง#Thai",
+    "frequencyRank": 16433
+  },
+  {
+    "word": "คลอง",
+    "partOfSpeech": "noun",
+    "romanization": "klɔɔng",
+    "glossShort": "watercourse, either natural or artificial",
+    "example": {
+      "text": "รักษาคลองรากฟันอักเสบ",
+      "translation": "to treat a root canal infection"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/คลอง#Thai",
+    "frequencyRank": 16486
+  },
+  {
+    "word": "เลบานอน",
+    "partOfSpeech": "name",
+    "romanization": "lee-baa-nɔn",
+    "glossShort": "Lebanon (a country in West Asia in the Middle East)",
+    "example": {
+      "text": "ประเทศเลบานอน",
+      "translation": "Lebanon (country)"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เลบานอน#Thai",
+    "frequencyRank": 16561
+  },
+  {
+    "word": "ตด",
+    "partOfSpeech": "noun",
+    "romanization": "dtòt",
+    "glossShort": "fart: flatus expelled through the anus",
+    "example": {
+      "text": "ตดกลิ่นเหมือนหมาตาย",
+      "translation": "(The) Fart smells like a dead dog."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ตด#Thai",
+    "frequencyRank": 16640
+  },
+  {
+    "word": "ชาวนา",
+    "partOfSpeech": "noun",
+    "romanization": "chaao-naa",
+    "glossShort": "farmer; rice grower",
+    "example": {
+      "text": "ชาวนาจะเริ่มเกี่ยวข้าวในเดือนนี้",
+      "translation": "Rice growers will begin to harvest rice this month."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ชาวนา#Thai",
+    "frequencyRank": 16829
+  },
+  {
+    "word": "โคม",
+    "partOfSpeech": "noun",
+    "romanization": "koom",
+    "glossShort": "lamp; lantern",
+    "example": {
+      "text": "โคมจีน",
+      "translation": "Chinese lantern"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/โคม#Thai",
+    "frequencyRank": 16992
+  },
+  {
+    "word": "ลงโทษ",
+    "partOfSpeech": "verb",
+    "romanization": "long-tôot",
+    "glossShort": "to inflict or impose as a penalty",
+    "example": {
+      "text": "ลงโทษประหาร",
+      "translation": "to inflict death"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ลงโทษ#Thai",
+    "frequencyRank": 17581
+  },
+  {
+    "word": "แกง",
+    "partOfSpeech": "noun",
+    "romanization": "gɛɛng",
+    "glossShort": "curry; soup; stew",
+    "example": {
+      "text": "แกงมัสมั่น",
+      "translation": "massaman curry"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/แกง#Thai",
+    "frequencyRank": 17694
+  },
+  {
+    "word": "มะกอก",
+    "partOfSpeech": "noun",
+    "romanization": "má-gɔ̀ɔk",
+    "glossShort": "olive",
+    "example": {
+      "text": "ลูกมะกอก",
+      "translation": "an olive"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/มะกอก#Thai",
+    "frequencyRank": 17897
+  },
+  {
+    "word": "คำนวณ",
+    "partOfSpeech": "verb",
+    "romanization": "kam-nuuan",
+    "glossShort": "to calculate.",
+    "example": {
+      "text": "เราสามารถคำนวณความน่าจะเป็นออกมาได้",
+      "translation": "We can calculate the probability."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/คำนวณ#Thai",
+    "frequencyRank": 18428
+  },
+  {
+    "word": "ปานามา",
+    "partOfSpeech": "name",
+    "romanization": "bpaa-naa-maa",
+    "glossShort": "Panama (a country in Central America)",
+    "example": {
+      "text": "ประเทศปานามา",
+      "translation": "Panama (country)"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ปานามา#Thai",
+    "frequencyRank": 18556
+  },
+  {
+    "word": "ศาสดา",
+    "partOfSpeech": "noun",
+    "romanization": "sàat-sà-daa",
+    "glossShort": "founder (of a religion, religious cult, religious tradition, or the like).",
+    "example": {
+      "text": "น่าเศร้าที่โลกทั้งใบก็ยังคงจดจำเขาในฐานะศาสดาของคนบ้า",
+      "translation": "It's sad that the whole world still remembers him as the prophet of the mad."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ศาสดา#Thai",
+    "frequencyRank": 19678
+  },
+  {
+    "word": "สหภาพ",
+    "partOfSpeech": "noun",
+    "romanization": "sà-hà-pâap",
+    "glossShort": "union (organisation)",
+    "example": {
+      "text": "สหภาพสาธารณรัฐสังคมนิยมโซเวียต",
+      "translation": "the Union of Soviet Socialist Republics"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/สหภาพ#Thai",
+    "frequencyRank": 20069
+  },
+  {
+    "word": "พลเอก",
+    "partOfSpeech": "noun",
+    "romanization": "pon-èek",
+    "glossShort": "general:",
+    "example": {
+      "text": "ไอลอว์เผยแพร่ ๗ รายชื่อสมาชิกสภานิติบัญญัติแห่งชาติที่ลงมติต่อที่ประชุม สนช. ไม่ครบ โดยปรากฏชื่อ พลเอก ปรีชา จันทร์โอชา...น้องชายนายกรัฐมนตรี ที่ลาการประชุม ๓๙๔ วัน มาลงมติเพียง ๖ วัน แต่รับเงินเดือน ๑๒๐,๐๐๐ บาททุกเดือน",
+      "translation": "iLaw publishes a list of seven members [of] the National Legislative Assembly who failed to attend the casting of votes at every meeting of the NLA, with the name of General Preecha Chan-o-cha,...a younger brother of the Prime Minister, appearing [as the person] who took leave [from] the meeting [for] 394 days [and] only attended the casting of votes [on] six days but [still] received the 120,000 baht salary every month."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/พลเอก#Thai",
+    "frequencyRank": 20497
+  },
+  {
+    "word": "ขณะ",
+    "partOfSpeech": "noun",
+    "romanization": "kà-nà",
+    "glossShort": "moment; while",
+    "example": {
+      "text": "ขณะนี้เว็บไซต์ใช้งานไม่ได้ชั่วคราว",
+      "translation": "At this moment, the website is unusable temporarily."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ขณะ#Thai",
+    "frequencyRank": 20656
+  },
+  {
+    "word": "อำลา",
+    "partOfSpeech": "verb",
+    "romanization": "am-laa",
+    "glossShort": "to say goodbye; to bid farewell; to take one's leave.",
+    "example": {
+      "text": "มะกะโทครั้นได้ฟังคำทำนาย...อำลาบุรุษผู้นั้นยกออกจากบ้านมะเตวะ",
+      "translation": "Makatho, upon having heard the divination,...bade farewell [to] that very man [and] set out of Matewa Village."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/อำลา#Thai",
+    "frequencyRank": 21736
+  },
+  {
+    "word": "โอมาน",
+    "partOfSpeech": "name",
+    "romanization": "oo-maan",
+    "glossShort": "Oman (a country in West Asia in the Middle East)",
+    "example": {
+      "text": "รัฐสุลต่านโอมาน",
+      "translation": "Sultanate of Oman"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/โอมาน#Thai",
+    "frequencyRank": 22076
+  },
+  {
+    "word": "แลบ",
+    "partOfSpeech": "verb",
+    "romanization": "lɛ̂ɛp",
+    "glossShort": "to extend beyond something else: to project, to protrude, etc.",
+    "example": {
+      "text": "แลบลิ้น",
+      "translation": "to stick out [one's] tongue"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/แลบ#Thai",
+    "frequencyRank": 22675
+  },
+  {
+    "word": "วรรณกรรม",
+    "partOfSpeech": "noun",
+    "romanization": "wan-ná-gam",
+    "glossShort": "literature (body of all written works)",
+    "example": {
+      "text": "การทบทวนวรรณกรรม",
+      "translation": "literature review"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/วรรณกรรม#Thai",
+    "frequencyRank": 23090
+  },
+  {
+    "word": "ปรากฏ",
+    "partOfSpeech": "verb",
+    "romanization": "bpraa-gòt",
+    "glossShort": "to appear; to occur; to be or become shown; to be or become known",
+    "example": {
+      "text": "ดังปรากฏในหนังสือคำให้การชาวกรุงเก่าซึ่งหอพระสมุดฯ ได้สำเนาฉะบับหลวงมาแต่เมืองพะม่า",
+      "translation": "As shown in the book The Replies of the People From the Old Kingdom, a copy of the royal manuscript of which has been obtained by the Royal Library from the Burmese state"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ปรากฏ#Thai",
+    "frequencyRank": 23358
+  },
+  {
+    "word": "ถอน",
+    "partOfSpeech": "verb",
+    "romanization": "tɔ̌ɔn",
+    "glossShort": "to pull out; to remove",
+    "example": {
+      "text": "ถอนหญ้า",
+      "translation": "to pull out grasses"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ถอน#Thai",
+    "frequencyRank": 23397
+  },
+  {
+    "word": "ลวงโลก",
+    "partOfSpeech": "adj",
+    "romanization": "luuang-lôok",
+    "glossShort": "deceitful; deceiving; deceptive.",
+    "example": {
+      "text": "ตร. กองปราบจับกุม ดร.ลิเดีย แชร์ทองลวงโลก มูลค่าความเสียหายกว่า ๑,๕๐๐ ล้าน",
+      "translation": "CSD police arrest Dr. Lidia [for] fraudulent gold scheme [with] damage value [amounting to] over 1,500 million [baht]"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ลวงโลก#Thai",
+    "frequencyRank": 24061
+  },
+  {
+    "word": "กระเทย",
+    "partOfSpeech": "noun",
+    "romanization": "grà-təəi",
+    "glossShort": "archaic spelling of กะเทย (gà-təəi)",
+    "example": {
+      "text": "ครั้นว่าพ้นจากนรกขึ้นมา...เป็นกระเทยได้พันชาติ",
+      "translation": "Having been discharged from the hell... he will be reborn as an invert for a thousand times."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/กระเทย#Thai",
+    "frequencyRank": 24286
+  },
+  {
+    "word": "เศษ",
+    "partOfSpeech": "noun",
+    "romanization": "sèet",
+    "glossShort": "a remainder of something",
+    "example": {
+      "text": "เศษขนมปัง",
+      "translation": "breadcrumbs"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เศษ#Thai",
+    "frequencyRank": 25468
+  },
+  {
+    "word": "ปรากฎ",
+    "partOfSpeech": "verb",
+    "romanization": "bpraa-gòt",
+    "glossShort": "obsolete spelling of ปรากฏ (bpraa-gòt)",
+    "example": {
+      "text": "ปรากฎแก่ตามะกะโท",
+      "translation": "Shown to the eyes of Makatho"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ปรากฎ#Thai",
+    "frequencyRank": 25954
+  },
+  {
+    "word": "การสมรส",
+    "partOfSpeech": "noun",
+    "romanization": "gaan-sǒm-rót",
+    "glossShort": "abstract noun of สมรส (sǒm-rót): marriage",
+    "example": {
+      "text": "มาตรา ๑๔๔๙ การสมรสจะกระทำมิได้ถ้าชายหรือหญิงเป็นบุคคลวิกลจริตหรือเป็นบุคคลซึ่งศาลสั่งให้เป็นคนไร้ความสามารถ",
+      "translation": "Section 1449 No marriage may be entered into if the man or woman is of unsound mind or has been adjudged incompetent by the court."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/การสมรส#Thai",
+    "frequencyRank": 26501
+  },
+  {
+    "word": "อำนวยความสะดวก",
+    "partOfSpeech": "verb",
+    "romanization": "am-nuai-kwaam-sà-dùuak",
+    "glossShort": "to give convenience (to); to make convenient; to facilitate.",
+    "example": {
+      "text": "ให้เจ้าของหรือผู้ครอบครองที่ดินหรือผู้ที่เกี่ยวข้องอำนวยความสะดวกตามสมควร",
+      "translation": "The owner or possessor of the land or relevant persons shall provide convenience as appropriate."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/อำนวยความสะดวก#Thai",
+    "frequencyRank": 26634
+  },
+  {
+    "word": "เคนยา",
+    "partOfSpeech": "name",
+    "romanization": "ken-yâa",
+    "glossShort": "Kenya (a country in East Africa)",
+    "example": {
+      "text": "ประเทศเคนยา",
+      "translation": "Kenya (country)"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เคนยา#Thai",
+    "frequencyRank": 26669
+  },
+  {
+    "word": "สาวก",
+    "partOfSpeech": "noun",
+    "romanization": "sǎa-wók",
+    "glossShort": "adherent; disciple; follower; pupil",
+    "example": {
+      "text": "เจ้าแม่ติ๊กต็อกสาวกนับแสน",
+      "translation": "A TikTok queen [with] as many as hundred thousand followers"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/สาวก#Thai",
+    "frequencyRank": 26691
+  },
+  {
+    "word": "บรรดา",
+    "partOfSpeech": "adj",
+    "romanization": "ban-daa",
+    "glossShort": "all; every.",
+    "example": {
+      "text": "มาตรา ๖๘๕...บรรดาข้อตกลงเกี่ยวกับการค้ำประกันที่แตกต่างไปจากมาตรา ๖๘๑ วรรคหนึ่ง...เป็นโมฆะ",
+      "translation": "Section 685...All the agreements concerning suretyship which differ from Section 681, Paragraph 1...shall be void."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/บรรดา#Thai",
+    "frequencyRank": 26984
+  },
+  {
+    "word": "เจตนา",
+    "partOfSpeech": "noun",
+    "romanization": "jèet-dtà-naa",
+    "glossShort": "intention; intent; design.",
+    "example": {
+      "text": "เจตนาฆ่า",
+      "translation": "intention to kill (someone)"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เจตนา#Thai",
+    "frequencyRank": 27478
+  },
+  {
+    "word": "ชง",
+    "partOfSpeech": "verb",
+    "romanization": "chong",
+    "glossShort": "to prepare by brewing",
+    "example": {
+      "text": "หากชงมาแล้วฉันดื่มไม่ได้เธอต้องดื่มให้หมด",
+      "translation": "If [you] make [this drink and bring it] to [me], and I can't drink it, you must drink it all [yourself]."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ชง#Thai",
+    "frequencyRank": 27578
+  },
+  {
+    "word": "นางพญา",
+    "partOfSpeech": "noun",
+    "romanization": "naang-pá-yaa",
+    "glossShort": "archaic form of นางพระยา (naang-prá-yaa)",
+    "example": {
+      "text": "นางพญาผึ้ง / ผึ้งนางพญา",
+      "translation": "queen bee"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/นางพญา#Thai",
+    "frequencyRank": 27755
+  },
+  {
+    "word": "จอม",
+    "partOfSpeech": "noun",
+    "romanization": "jɔɔm",
+    "glossShort": "top; summit; apex",
+    "example": {
+      "text": "จอมปลวก",
+      "translation": "anthill"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/จอม#Thai",
+    "frequencyRank": 27878
+  },
+  {
+    "word": "จรรยาบรรณ",
+    "partOfSpeech": "noun",
+    "romanization": "jan-yaa-ban",
+    "glossShort": "code of conduct.",
+    "example": {
+      "text": "ข้อ ๕ ผู้ประกอบวิชาชีพผู้ใดฝ่าฝืนหรือไม่ปฏิบัติตามข้อบังคับข้อใดข้อหนึ่งดังต่อไปนี้ ให้ถือว่า ผู้ประกอบวิชาชีพผู้นั้นประพฤติผิดจรรยาบรรณแห่งวิชาชีพสถาปัตยกรรม",
+      "translation": "Regulation 5 [When] any practitioner contravenes or fails to comply with any of the following regulations, it shall be deemed that such practitioner commits a breach of the code of conduct of the architectural profession."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/จรรยาบรรณ#Thai",
+    "frequencyRank": 27891
+  },
+  {
+    "word": "สยาม",
+    "partOfSpeech": "name",
+    "romanization": "sà-yǎam",
+    "glossShort": "Siam (former name of Thailand: a country in Southeast Asia)",
+    "example": {
+      "text": "หนังสือสัญญาใด ๆ มีบทเปลี่ยนแปลงอาณาเขตต์สยาม...ต้องได้รับความเห็นชอบของสภาผู้แทนราษฎร",
+      "translation": "Any written treaty containing a provision altering the territory of Siam...must obtain the approval of the House of People's Representatives."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/สยาม#Thai",
+    "frequencyRank": 28178
+  },
+  {
+    "word": "ออกทะเล",
+    "partOfSpeech": "verb",
+    "romanization": "ɔ̀ɔk-tá-lee",
+    "glossShort": "Used other than figuratively or idiomatically: see ออก (ɔ̀ɔk), ทะเล (tá-lee).",
+    "example": {
+      "text": "ประชุมอย่างไรให้ไม่ออกทะเล",
+      "translation": "How to hold a meeting without going off-topic?"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ออกทะเล#Thai",
+    "frequencyRank": 29110
+  },
+  {
+    "word": "ลวด",
+    "partOfSpeech": "noun",
+    "romanization": "lûuat",
+    "glossShort": "any long strip",
+    "example": {
+      "text": "ให้ตีด้วยลวดหนังคละ ๒๕ ที",
+      "translation": "[They] shall be flogged with a leather whip [for] twenty-five lashes each."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ลวด#Thai",
+    "frequencyRank": 29523
+  },
+  {
+    "word": "แอป",
+    "partOfSpeech": "noun",
+    "romanization": "ɛ́p",
+    "glossShort": "application",
+    "example": {
+      "text": "สิบห้าแอปที่ต้องมีติดเครื่อง",
+      "translation": "fifteen apps (you) have to have on your device"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/แอป#Thai",
+    "frequencyRank": 29657
+  },
+  {
+    "word": "เขมร",
+    "partOfSpeech": "name",
+    "romanization": "kà-měen",
+    "glossShort": "Khmer",
+    "example": {
+      "text": "ชาวเขมร",
+      "translation": "Khmer (person)"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/เขมร#Thai",
+    "frequencyRank": 30696
+  },
+  {
+    "word": "ปลอบโยน",
+    "partOfSpeech": "verb",
+    "romanization": "bplɔ̀ɔp-yoon",
+    "glossShort": "comfort; to soothe; to console",
+    "example": {
+      "text": "เธอเข้าไปปลอบโยนคนที่ร้องไห้ด้วยการโอบกอด",
+      "translation": "She went in to hug and hold the crying people to cheer them up."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ปลอบโยน#Thai",
+    "frequencyRank": 31224
+  },
+  {
+    "word": "ปรอท",
+    "partOfSpeech": "noun",
+    "romanization": "bpà-rɔ̀ɔt",
+    "glossShort": "mercury; quicksilver",
+    "example": {
+      "text": "ไวเป็นปรอท",
+      "translation": "quick as mercury"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ปรอท#Thai",
+    "frequencyRank": 31695
+  },
+  {
+    "word": "อวตาร",
+    "partOfSpeech": "noun",
+    "romanization": "à-wá-dtaan",
+    "glossShort": "avatar.",
+    "example": {
+      "text": "พรรคพลังประชาชนเป็นอวตารของพรรคไทยรักไทย",
+      "translation": "The People's Power Party is an avatar of the Thais Love Thais Party."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/อวตาร#Thai",
+    "frequencyRank": 32301
+  },
+  {
+    "word": "ดอกทอง",
+    "partOfSpeech": "noun",
+    "romanization": "dɔ̀ɔk-tɔɔng",
+    "glossShort": "the plant Curcuma spp. of the family Zingiberaceae, traditionally used to make a very strong aphrodisiac.",
+    "example": {
+      "text": "ด่าท่านว่า...อี่ดอกทอง...ให้ปรับไหมโดยยศถา",
+      "translation": "[Whoever] calls another as...i dok thong...shall be fined in accordance with [his or her] standing."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ดอกทอง#Thai",
+    "frequencyRank": 32841
+  },
+  {
+    "word": "อม",
+    "partOfSpeech": "verb",
+    "romanization": "om",
+    "glossShort": "to hold in the mouth (for various purposes, such as for letting the thing held dissolve in the mouth or for sucking that thing)",
+    "example": {
+      "text": "นั่งก่อน นั่งก่อน ฟังข่าวเด็ดอีเรณู อุตส่าห์อมไว้ตั้งแต่บนรถไฟ",
+      "translation": "Sit [down] first, sit [down] first, [and] listen to [this] hot news [about] I Renu, [which] I've tried not to disclose since [we're] on the train!"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/อม#Thai",
+    "frequencyRank": 33319
+  },
+  {
+    "word": "โลกสวย",
+    "partOfSpeech": "adj",
+    "romanization": "lôok-sǔai",
+    "glossShort": "positive or optimistic, especially in a fanciful or unreasonable manner.",
+    "example": {
+      "text": "เปิดใจครูรุ่นพี่โพสต์เห็นใจครูรุ่นน้องขืนใจศิษย์ ไม่สนคนมองโลกสวย",
+      "translation": "Open the mind of a senior teacher who made a post showing pity for junior teachers [that] raped [their own] students, [saying she] never cares [if] people consider [her] to be overoptimistic."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/โลกสวย#Thai",
+    "frequencyRank": 33328
+  },
+  {
+    "word": "ยอมความ",
+    "partOfSpeech": "verb",
+    "romanization": "yɔɔm-kwaam",
+    "glossShort": "to compound",
+    "example": {
+      "text": "ความผิดตามมาตรานี้เป็นความผิดอันยอมความได้",
+      "translation": "The offence under this section is an offence which can be compounded."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ยอมความ#Thai",
+    "frequencyRank": 35044
+  },
+  {
+    "word": "ทยอย",
+    "partOfSpeech": "adv",
+    "romanization": "tá-yɔɔi",
+    "glossShort": "one after another; one by one",
+    "example": {
+      "text": "ทยอย(กัน)มา",
+      "translation": "to come one after another"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ทยอย#Thai",
+    "frequencyRank": 38168
+  },
+  {
+    "word": "ขบวนการ",
+    "partOfSpeech": "noun",
+    "romanization": "kà-buuan-gaan",
+    "glossShort": "movement: series of actions or activities for a particular end; group of persons working together for a particular end.",
+    "example": {
+      "text": "ขบวนการสิทธิมนุษยชนในอินเดีย",
+      "translation": "human rights movement in India"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ขบวนการ#Thai",
+    "frequencyRank": 38171
+  },
+  {
+    "word": "คองโก",
+    "partOfSpeech": "name",
+    "romanization": "kɔng-goo",
+    "glossShort": "Democratic Republic of the Congo (a country in Central Africa, larger and to the east of the Republic of the Congo)",
+    "example": {
+      "text": "สาธารณรัฐประชาธิปไตยคองโก",
+      "translation": "Democratic Republic of the Congo"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/คองโก#Thai",
+    "frequencyRank": 39195
+  },
+  {
+    "word": "โฟม",
+    "partOfSpeech": "noun",
+    "romanization": "foom",
+    "glossShort": "any polymeric foam used for shockproof substance or container.",
+    "example": {
+      "text": "ปาร์ตี้โฟม",
+      "translation": "foam party"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/โฟม#Thai",
+    "frequencyRank": 39439
+  },
+  {
+    "word": "นกเขา",
+    "partOfSpeech": "noun",
+    "romanization": "nók-kǎo",
+    "glossShort": "any of various birds of the genus Accipiter.",
+    "example": {
+      "text": "โดยสติปัญญาของเจ้าหรือ เหยี่ยวนกเขาโผไปมา และกางปีกของมันตรงไปทางทิศใต้?",
+      "translation": "Is it by your wisdom that the hawk soars, and stretches her wings toward the south?"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/นกเขา#Thai",
+    "frequencyRank": 40043
+  },
+  {
+    "word": "นอกสมรส",
+    "partOfSpeech": "adj",
+    "romanization": "nɔ̂ɔk-sǒm-rót",
+    "glossShort": "not legally married.",
+    "example": {
+      "text": "ภรรยานอกสมรส",
+      "translation": "Illicit wife"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/นอกสมรส#Thai",
+    "frequencyRank": 40187
+  },
+  {
+    "word": "ทลาย",
+    "partOfSpeech": "verb",
+    "romanization": "tá-laai",
+    "glossShort": "to collapse; to fall apart",
+    "example": {
+      "text": "เจ้าหน้าที่ทลายแก๊งค้าน้ำมันเถื่อนกลางเมืองตรัง",
+      "translation": "Authorities raid illegal oil trade gangs in the heart of Trang Town"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ทลาย#Thai",
+    "frequencyRank": 41192
+  },
+  {
+    "word": "นางโลม",
+    "partOfSpeech": "noun",
+    "romanization": "naang-loom",
+    "glossShort": "prostitute",
+    "example": {
+      "text": "เมื่อ ร. ๕ เที่ยวกลางคืน ประพาสถิ่นนางโลม",
+      "translation": "When King Rama V had a night out [and] visited a prostitutes’ site"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/นางโลม#Thai",
+    "frequencyRank": 41306
+  },
+  {
+    "word": "ลงถนน",
+    "partOfSpeech": "verb",
+    "romanization": "long-tà-nǒn",
+    "glossShort": "to take to the streets (for a protest or demonstration).",
+    "example": {
+      "text": "ถ้าประยุทธ์ได้ไปต่อ ประชาชนเตรียมลงถนน",
+      "translation": "If Prayut can go on, people [will] be ready to take to the streets."
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ลงถนน#Thai",
+    "frequencyRank": 41918
+  },
+  {
+    "word": "แจก",
+    "partOfSpeech": "verb",
+    "romanization": "jɛ̀ɛk",
+    "glossShort": "to distribute: to divide into parts, classes, phases, etc.",
+    "example": {
+      "text": "แจกใบปลิว",
+      "translation": "to hand out leaflets"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/แจก#Thai",
+    "frequencyRank": 43476
+  },
+  {
+    "word": "สลด",
+    "partOfSpeech": "verb",
+    "romanization": "sà-lòt",
+    "glossShort": "to sadden.",
+    "example": {
+      "text": "ลำดับเหตุการณ์สุดสลด",
+      "translation": "The chronology of the most saddening incident"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/สลด#Thai",
+    "frequencyRank": 46385
+  },
+  {
+    "word": "ตาก",
+    "partOfSpeech": "verb",
+    "romanization": "dtàak",
+    "glossShort": "to dry (in the sun or the air)",
+    "example": {
+      "text": "ลานตากข้าว",
+      "translation": "rice-drying yard"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/ตาก#Thai",
+    "frequencyRank": 47045
+  },
+  {
+    "word": "มอบหมาย",
+    "partOfSpeech": "verb",
+    "romanization": "mɔ̂ɔp-mǎai",
+    "glossShort": "to delegate; to authorise; to entrust; to assign.",
+    "example": {
+      "text": "มอบหมายงานให้",
+      "translation": "to assign a work to (someone)"
+    },
+    "sourceUrl": "https://en.wiktionary.org/wiki/มอบหมาย#Thai",
+    "frequencyRank": 49143
+  }
+]
